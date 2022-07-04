@@ -1,0 +1,656 @@
+unique_id,date,headline,source,url
+2020-03-20_an_0001,2020-03-20,Wali Kota Sukabumi pastikan dirinya sehat,Antara,https://www.antaranews.com/berita/1370798/wali-kota-sukabumi-pastikan-dirinya-sehat
+2020-03-20_an_0002,2020-03-20,Bupati Buleleng imbau tidak ada pawai Ogoh-Ogoh cegah COVID-19,Antara,https://www.antaranews.com/berita/1370766/bupati-buleleng-imbau-tidak-ada-pawai-ogoh-ogoh-cegah-covid-19
+2020-03-20_an_0003,2020-03-20,Polda Jatim kirim tim bantu Pemprov lacak penderita COVID-19,Antara,https://www.antaranews.com/berita/1370794/polda-jatim-kirim-tim-bantu-pemprov-lacak-penderita-covid-19
+2020-03-20_an_0004,2020-03-20,"""Social distancing"" dinilai jauh lebih efektif dibandingkan masker",Antara,https://www.antaranews.com/video/1370666/social-distancing-dinilai-jauh-lebih-efektif-dibandingkan-masker
+2020-03-20_an_0005,2020-03-20,199 orang kontak dekat dengan 3 orang positif COVID-19 di Bali,Antara,https://www.antaranews.com/berita/1370790/199-orang-kontak-dekat-dengan-3-orang-positif-covid-19-di-bali
+2020-03-20_an_0006,2020-03-20,"Wagub Sumbar cegat seluruh kendaraan dari Pekanbaru, cegah corona",Antara,https://www.antaranews.com/berita/1370786/wagub-sumbar-cegat-seluruh-kendaraan-dari-pekanbaru-cegah-corona
+2020-03-20_an_0007,2020-03-20,"Cegah kepanikan, ekonom harapkan pemda jaga pasokan bahan pangan",Antara,https://www.antaranews.com/berita/1370782/cegah-kepanikan-ekonom-harapkan-pemda-jaga-pasokan-bahan-pangan
+2020-03-20_an_0008,2020-03-20,Warga Lebak kembali diminta waspadai banjir dan longsor,Antara,https://www.antaranews.com/berita/1370778/warga-lebak-kembali-diminta-waspadai-banjir-dan-longsor
+2020-03-20_an_0009,2020-03-20,Batam cari 131 orang 'closed contact' pasien COVID-19,Antara,https://www.antaranews.com/berita/1370774/batam-cari-131-orang-closed-contact-pasien-covid-19
+2020-03-20_an_0010,2020-03-20,Polisi limpahkan kasus narkoba Vitalia Sesha ke Kejaksaan pekan depan,Antara,https://www.antaranews.com/berita/1370770/polisi-limpahkan-kasus-narkoba-vitalia-sesha-ke-kejaksaan-pekan-depan
+2020-03-20_an_0011,2020-03-20,Pemkab Kudus alihkan anggaran Rp12 miliar untuk pencegahan COVID-19,Antara,https://www.antaranews.com/berita/1370762/pemkab-kudus-alihkan-anggaran-rp12-miliar-untuk-pencegahan-covid-19
+2020-03-20_an_0012,2020-03-20,Bupati Wondama instruksikan Satpol PP cegah ASN keluar daerah,Antara,https://www.antaranews.com/berita/1370730/bupati-wondama-instruksikan-satpol-pp-cegah-asn-keluar-daerah
+2020-03-20_an_0013,2020-03-20, Lautaro Martinez bahagia dan akan bertahan di Inter Milan,Antara,https://www.antaranews.com/berita/1370758/zanetti-lautaro-martinez-bahagia-dan-akan-bertahan-di-inter-milan
+2020-03-20_an_0014,2020-03-20,Erick Thohir perintahkan dana CSR BUMN fokus bantu penanganan COVID-19,Antara,https://www.antaranews.com/berita/1370754/erick-thohir-perintahkan-dana-csr-bumn-fokus-bantu-penanganan-covid-19
+2020-03-20_an_0015,2020-03-20,"Senin, RSPI SS sampaikan perkembangan COVID-19 dengan 'live streaming'",Antara,https://www.antaranews.com/berita/1370750/senin-rspi-ss-sampaikan-perkembangan-covid-19-dengan-live-streaming
+2020-03-20_an_0016,2020-03-20,"Serangkaian Hari Nyepi, Gubernur Bali larang pengarakan ogoh-ogoh",Antara,https://www.antaranews.com/berita/1370746/serangkaian-hari-nyepi-gubernur-bali-larang-pengarakan-ogoh-ogoh
+2020-03-20_an_0017,2020-03-20,DKI siap laksanakan tes massal COVID-19,Antara,https://www.antaranews.com/berita/1370742/dki-siap-laksanakan-tes-massal-covid-19
+2020-03-20_an_0018,2020-03-20,Progres pembangunan fasilitas observasi dan isolasi di Pulau Galang,Antara,https://www.antaranews.com/video/1370610/progres-pembangunan-fasilitas-observasi-dan-isolasi-di-pulau-galang
+2020-03-20_an_0019,2020-03-20,"Tangani sampah laut, Luhut minta ada kapal khusus",Antara,https://www.antaranews.com/berita/1370738/tangani-sampah-laut-luhut-minta-ada-kapal-khusus
+2020-03-20_an_0020,2020-03-20,"Positif Covid-19 di Kaltim bertambah 6 orang, total jadi 9 orang",Antara,https://www.antaranews.com/berita/1370734/positif-covid-19-di-kaltim-bertambah-6-orang-total-jadi-9-orang
+2020-03-20_an_0021,2020-03-20,"Pulang studi lapangan, rombongan SMAN I Jambi disemprot disiinfektan",Antara,https://www.antaranews.com/berita/1370726/pulang-studi-lapangan-rombongan-sman-i-jambi-disemprot-disiinfektan
+2020-03-20_an_0022,2020-03-20,60 WNI berada di kapal pesiar dengan penumpang terjangkit COVID-19,Antara,https://www.antaranews.com/berita/1370690/60-wni-berada-di-kapal-pesiar-dengan-penumpang-terjangkit-covid-19
+2020-03-20_an_0023,2020-03-20,Menkumham ajak masyarakat berperan aktif cegah penularan COVID-19,Antara,https://www.antaranews.com/berita/1370722/menkumham-ajak-masyarakat-berperan-aktif-cegah-penularan-covid-19
+2020-03-20_an_0024,2020-03-20,Peserta Ijtima di Gowa meninggal dunia akibat penyakit jantung,Antara,https://www.antaranews.com/berita/1370718/peserta-ijtima-di-gowa-meninggal-dunia-akibat-penyakit-jantung
+2020-03-20_an_0025,2020-03-20,Pemprov DKI siapkan 17.500 dokter untuk tangani COVID-19,Antara,https://www.antaranews.com/berita/1370714/pemprov-dki-siapkan-17500-dokter-untuk-tangani-covid-19
+2020-03-20_an_0026,2020-03-20,Progres pembangunan rs khusus Corona di Batam,Antara,https://www.antaranews.com/foto/1370710/progres-pembangunan-rs-khusus-corona-di-batam
+2020-03-20_an_0027,2020-03-20,11 PDP di RSUD Zainoel Abidin Banda Aceh negatif corona,Antara,https://www.antaranews.com/berita/1370706/11-pdp-di-rsud-zainoel-abidin-banda-aceh-negatif-corona
+2020-03-20_an_0028,2020-03-20,"Stimulus UMKM, pemerintah tanggung bunga KUR hingga akhir tahun",Antara,https://www.antaranews.com/berita/1370702/stimulus-umkm-pemerintah-tanggung-bunga-kur-hingga-akhir-tahun
+2020-03-20_an_0029,2020-03-20,"Tanggulangi COVID-19, pimpinan DPR didesak bentuk tim pengawas",Antara,https://www.antaranews.com/berita/1370698/tanggulangi-covid-19-pimpinan-dpr-didesak-bentuk-tim-pengawas
+2020-03-20_an_0030,2020-03-20,Penurunan jumlah penumpang internasional di Bali,Antara,https://www.antaranews.com/foto/1370694/penurunan-jumlah-penumpang-internasional-di-bali
+2020-03-20_an_0031,2020-03-20,"Cegah Covid-19, Kemhan distribusikan peralatan disinfektan",Antara,https://www.antaranews.com/berita/1370686/cegah-covid-19-kemhan-distribusikan-peralatan-disinfektan
+2020-03-20_an_0032,2020-03-20,DKI tutup tempat hiburan,Antara,https://www.antaranews.com/berita/1370650/dki-tutup-tempat-hiburan
+2020-03-20_an_0033,2020-03-20,Misa bersama terakhir umat Katolik,Antara,https://www.antaranews.com/foto/1370682/misa-bersama-terakhir-umat-katolik
+2020-03-20_an_0034,2020-03-20,Importir Jatim harapkan nilai tukar rupiah kembali normal,Antara,https://www.antaranews.com/berita/1370678/importir-jatim-harapkan-nilai-tukar-rupiah-kembali-normal
+2020-03-20_an_0035,2020-03-20,Wali Kota Bogor memohon doa dari semua pihak,Antara,https://www.antaranews.com/berita/1370674/wali-kota-bogor-memohon-doa-dari-semua-pihak
+2020-03-20_an_0036,2020-03-20,Larangan berkumpul di warung kopi,Antara,https://www.antaranews.com/foto/1370670/larangan-berkumpul-di-warung-kopi
+2020-03-20_an_0037,2020-03-20," dukung ""rapid test"" COVID-19 dilakukan secara massal dan merata",Antara,https://www.antaranews.com/berita/1370662/mpr-dukung-rapid-test-covid-19-dilakukan-secara-massal-dan-merata
+2020-03-20_an_0038,2020-03-20,RSPI Sulianti Saroso tambah ruang rawat pasien COVID-19,Antara,https://www.antaranews.com/video/1370582/rspi-sulianti-saroso-tambah-ruang-rawat-pasien-covid-19
+2020-03-20_an_0039,2020-03-20,Pembatasan akses masuk Timor Leste,Antara,https://www.antaranews.com/foto/1370658/pembatasan-akses-masuk-timor-leste
+2020-03-20_an_0040,2020-03-20,"Antisipasi Covid-19, Ninja Xpress perluas jangkauan layanan On-demand",Antara,https://www.antaranews.com/berita/1370654/antisipasi-covid-19-ninja-xpress-perluas-jangkauan-layanan-on-demand
+2020-03-20_an_0041,2020-03-20,Perhepi harapkan penetapan kuota impor buah sesuai prosedur,Antara,https://www.antaranews.com/berita/1370646/perhepi-harapkan-penetapan-kuota-impor-buah-sesuai-prosedur
+2020-03-20_an_0042,2020-03-20,"Penerapan ""social distancing"" di MRT Jakarta",Antara,https://www.antaranews.com/foto/1370606/penerapan-social-distancing-di-mrt-jakarta
+2020-03-20_an_0043,2020-03-20,Ganjar kumpulkan FKUB bahas acara besar keagamaan di Jawa Tengah,Antara,https://www.antaranews.com/berita/1370642/ganjar-kumpulkan-fkub-bahas-acara-besar-keagamaan-di-jawa-tengah
+2020-03-20_an_0044,2020-03-20,"Jaga pasar keuangan, Erick Thohir sebut enam BUMN beli kembali saham",Antara,https://www.antaranews.com/berita/1370638/jaga-pasar-keuangan-erick-thohir-sebut-enam-bumn-beli-kembali-saham
+2020-03-20_an_0045,2020-03-20,"Pemberlakuan ""social distancing"" di Pelabuhan Internasional Dumai",Antara,https://www.antaranews.com/foto/1370634/pemberlakuan-social-distancing-di-pelabuhan-internasional-dumai
+2020-03-20_an_0046,2020-03-20,Tiga pasien positif corana di Sultra jamaah umrah,Antara,https://www.antaranews.com/berita/1370630/tiga-pasien-positif-corana-di-sultra-jamaah-umrah
+2020-03-20_an_0047,2020-03-20,Polisi akan panggil Ismed Sofyan terkait dugaan KDRT,Antara,https://www.antaranews.com/berita/1370626/polisi-akan-panggil-ismed-sofyan-terkait-dugaan-kdrt
+2020-03-20_an_0048,2020-03-20,Wisma atlet disiapkan untuk rs darurat COVID - 19,Antara,https://www.antaranews.com/foto/1370622/wisma-atlet-disiapkan-untuk-rs-darurat-covid-19
+2020-03-20_an_0049,2020-03-20,Lima kualifikasi Olimpiade bulu tangkis dibatalkan karena virus corona,Antara,https://www.antaranews.com/berita/1370618/lima-kualifikasi-olimpiade-bulu-tangkis-dibatalkan-karena-virus-corona
+2020-03-20_an_0050,2020-03-20,Bapenda DKI batasi layanan operasional Samsat,Antara,https://www.antaranews.com/berita/1370614/bapenda-dki-batasi-layanan-operasional-samsat
+2020-03-20_an_0051,2020-03-20,Mobil tabrak separator busway gara-gara hindari genangan,Antara,https://www.antaranews.com/berita/1370602/mobil-tabrak-separator-busway-gara-gara-hindari-genangan
+2020-03-20_an_0052,2020-03-20,Inggris bujuk 65.000 mantan perawat dan dokter kembali bekerja,Antara,https://www.antaranews.com/berita/1370562/inggris-bujuk-65000-mantan-perawat-dan-dokter-kembali-bekerja
+2020-03-20_an_0053,2020-03-20,Penderita DBD di Lebak capai 46 orang,Antara,https://www.antaranews.com/berita/1370598/penderita-dbd-di-lebak-capai-46-orang
+2020-03-20_an_0054,2020-03-20,Permainan papan yang asyik saat #dirumahsaja,Antara,https://www.antaranews.com/berita/1370594/permainan-papan-yang-asyik-saat-dirumahsaja
+2020-03-20_an_0055,2020-03-20,"Jakarta Utara siap laksanakan ""rapid test"" COVID-19",Antara,https://www.antaranews.com/berita/1370590/jakarta-utara-siap-laksanakan-rapid-test-covid-19
+2020-03-20_an_0056,2020-03-20,Penumpang Transsemarang menurun menyusul kebijakan bekerja dari rumah,Antara,https://www.antaranews.com/berita/1370586/penumpang-transsemarang-menurun-menyusul-kebijakan-bekerja-dari-rumah
+2020-03-20_an_0057,2020-03-20,Istri pasien corona meninggal di Solo dinyatakan positif COVID-19,Antara,https://www.antaranews.com/berita/1370578/istri-pasien-corona-meninggal-di-solo-dinyatakan-positif-covid-19
+2020-03-20_an_0058,2020-03-20,Hujan disertai petir masih terjadi di beberapa wilayah,Antara,https://www.antaranews.com/berita/1370574/hujan-disertai-petir-masih-terjadi-di-beberapa-wilayah
+2020-03-20_an_0059,2020-03-20,Kemenhub pastikan kondisi Menhub Budi Karya stabil dan membaik,Antara,https://www.antaranews.com/berita/1370570/kemenhub-pastikan-kondisi-menhub-budi-karya-stabil-dan-membaik
+2020-03-20_an_0060,2020-03-20,Puan apresiasi peran dokter-tenaga kesehatan tangani COVID-19,Antara,https://www.antaranews.com/berita/1370566/puan-apresiasi-peran-dokter-tenaga-kesehatan-tangani-covid-19
+2020-03-20_an_0061,2020-03-20,Pasien positif COVID-19 di Kaltim bertambah menjadi sembilan orang,Antara,https://www.antaranews.com/berita/1370558/pasien-positif-covid-19-di-kaltim-bertambah-menjadi-sembilan-orang
+2020-03-20_an_0062,2020-03-20,Polisi di Aceh tangkap pencuri kotak amal anak yatim di rumah sakit,Antara,https://www.antaranews.com/berita/1370522/polisi-di-aceh-tangkap-pencuri-kotak-amal-anak-yatim-di-rumah-sakit
+2020-03-20_an_0063,2020-03-20,"Mahasiswa Sorong buat cairan pembersih tangan, dibagikan ke masyarakat",Antara,https://www.antaranews.com/berita/1370554/mahasiswa-sorong-buat-cairan-pembersih-tangan-dibagikan-ke-masyarakat
+2020-03-20_an_0064,2020-03-20,Jumlah pelintas batas di Mota Ain turun 70 persen,Antara,https://www.antaranews.com/berita/1370550/jumlah-pelintas-batas-di-mota-ain-turun-70-persen
+2020-03-20_an_0065,2020-03-20,Imunitas kunci utama saat belum ada obat lawan COVID-19,Antara,https://www.antaranews.com/berita/1370546/imunitas-kunci-utama-saat-belum-ada-obat-lawan-covid-19
+2020-03-20_an_0066,2020-03-20, Jakarta masuki status Tanggap Darurat COVID-19,Antara,https://www.antaranews.com/berita/1370542/anies-jakarta-masuki-status-tanggap-darurat-covid-19
+2020-03-20_an_0067,2020-03-20,BPBD Kediri lakukan penyemprotan disinfektan di pesantren,Antara,https://www.antaranews.com/berita/1370538/bpbd-kediri-lakukan-penyemprotan-disinfektan-di-pesantren
+2020-03-20_an_0068,2020-03-20,Finlandia pertanyakan anjuran WHO tentang perbanyak uji COVID-19,Antara,https://www.antaranews.com/berita/1370534/finlandia-pertanyakan-anjuran-who-tentang-perbanyak-uji-covid-19
+2020-03-20_an_0069,2020-03-20, Pemerintah percepat penanganan COVID-19,Antara,https://www.antaranews.com/berita/1370530/dpr-pemerintah-percepat-penanganan-covid-19
+2020-03-20_an_0070,2020-03-20,Erick dorong BUMN terbitkan obligasi tarik devisa,Antara,https://www.antaranews.com/berita/1370526/erick-dorong-bumn-terbitkan-obligasi-tarik-devisa
+2020-03-20_an_0071,2020-03-20,Pasien positif COVID-19 di Kepri jadi empat orang,Antara,https://www.antaranews.com/berita/1370518/pasien-positif-covid-19-di-kepri-jadi-empat-orang
+2020-03-20_an_0072,2020-03-20,Kasus positif COVID-19 di Malaysia tembus angka 1.030,Antara,https://www.antaranews.com/berita/1370486/kasus-positif-covid-19-di-malaysia-tembus-angka-1030
+2020-03-20_an_0073,2020-03-20,"1 PDP COVID-19 meninggal di Bantul, domisili Bekasi",Antara,https://www.antaranews.com/berita/1370514/1-pdp-covid-19-meninggal-di-bantul-domisili-bekasi
+2020-03-20_an_0074,2020-03-20,Putra kedua Tjahjo Kumolo positif COVID-19,Antara,https://www.antaranews.com/berita/1370510/putra-kedua-tjahjo-kumolo-positif-covid-19
+2020-03-20_an_0075,2020-03-20,Ormas PP siagakan relawan untuk bantu pemerintah tangani COVID-19,Antara,https://www.antaranews.com/berita/1370502/ormas-pp-siagakan-relawan-untuk-bantu-pemerintah-tangani-covid-19
+2020-03-20_an_0076,2020-03-20,Masjid Jami' Al Munawar Pancoran tetap gelar shalat dzuhur berjamaah,Antara,https://www.antaranews.com/video/1370318/masjid-jami-al-munawar-pancoran-tetap-gelar-shalat-dzuhur-berjamaah
+2020-03-20_an_0077,2020-03-20,"Kurang ""baju astronot"", RSPI: Terima kasih atas sumbangan masyarakat",Antara,https://www.antaranews.com/berita/1370498/kurang-baju-astronot-rspi-terima-kasih-atas-sumbangan-masyarakat
+2020-03-20_an_0078,2020-03-20,"Cegah COVID-19, Puan pimpin Rapat Bamus DPR secara virtual",Antara,https://www.antaranews.com/berita/1370494/cegah-covid-19-puan-pimpin-rapat-bamus-dpr-secara-virtual
+2020-03-20_an_0079,2020-03-20,Sholat Jumat dengan jarak antar makmun sejauh satu meter,Antara,https://www.antaranews.com/video/1370226/sholat-jumat-dengan-jarak-antar-makmun-sejauh-satu-meter
+2020-03-20_an_0080,2020-03-20,Misi NASA kembali ke bulan pada 2024 terdampak COVID-19,Antara,https://www.antaranews.com/berita/1370490/misi-nasa-kembali-ke-bulan-pada-2024-terdampak-covid-19
+2020-03-20_an_0081,2020-03-20, jangan ragu tegur orang yang tidak disiplin menjaga jarak,Antara,https://www.antaranews.com/video/1370394/jokowi-jangan-ragu-tegur-orang-yang-tidak-disiplin-menjaga-jarak
+2020-03-20_an_0082,2020-03-20,"Antisipasi COVID-19, Lalu Zohri dkk. dipulangkan ke daerah",Antara,https://www.antaranews.com/berita/1370454/antisipasi-covid-19-lalu-zohri-dkk-dipulangkan-ke-daerah
+2020-03-20_an_0083,2020-03-20,Kasus ODP di Batang bertambah jadi 39 orang,Antara,https://www.antaranews.com/berita/1370482/kasus-odp-di-batang-bertambah-jadi-39-orang
+2020-03-20_an_0084,2020-03-20,"Menteri BUMN siapkan 4,7 juta masker",Antara,https://www.antaranews.com/video/1370326/menteri-bumn-siapkan-47-juta-masker
+2020-03-20_an_0085,2020-03-20,APBI apresiasi rencana pencabutan Permendag No.82/2017,Antara,https://www.antaranews.com/berita/1370478/apbi-apresiasi-rencana-pencabutan-permendag-no82-2017
+2020-03-20_an_0086,2020-03-20,Bali United perpanjang masa libur para pemain,Antara,https://www.antaranews.com/berita/1370474/bali-united-perpanjang-masa-libur-para-pemain
+2020-03-20_an_0087,2020-03-20,Jakarta Selatan tunggu pemberitahuan resmi tes massal COVID-19,Antara,https://www.antaranews.com/berita/1370470/jakarta-selatan-tunggu-pemberitahuan-resmi-tes-massal-covid-19
+2020-03-20_an_0088,2020-03-20,Polda Aceh imbau masyarakat berpartisipasi cegah Virus Corona,Antara,https://www.antaranews.com/berita/1370466/polda-aceh-imbau-masyarakat-berpartisipasi-cegah-virus-corona
+2020-03-20_an_0089,2020-03-20,"Kematian COVID-19 di Italia lebihi China, negara kaya curahkan bantuan",Antara,https://www.antaranews.com/berita/1370462/kematian-covid-19-di-italia-lebihi-china-negara-kaya-curahkan-bantuan
+2020-03-20_an_0090,2020-03-20,DPP Golkar tetapkan bakal calon pilkada di Provinsi Banten,Antara,https://www.antaranews.com/berita/1370458/dpp-golkar-tetapkan-bakal-calon-pilkada-di-provinsi-banten
+2020-03-20_an_0091,2020-03-20,"Setelah bank, OJK siapkan relaksasi untuk perusahaan pembiayaan",Antara,https://www.antaranews.com/berita/1370450/setelah-bank-ojk-siapkan-relaksasi-untuk-perusahaan-pembiayaan
+2020-03-20_an_0092,2020-03-20,Polres Kudus ingatkan warga selektif unggah berita COVID-19 di medsos,Antara,https://www.antaranews.com/berita/1370414/polres-kudus-ingatkan-warga-selektif-unggah-berita-covid-19-di-medsos
+2020-03-20_an_0093,2020-03-20,"Cairan pembersih tangan di stasiun, gratis dari Fakultas Farmasi UI",Antara,https://www.antaranews.com/berita/1370446/cairan-pembersih-tangan-di-stasiun-gratis-dari-fakultas-farmasi-ui
+2020-03-20_an_0094,2020-03-20,Sorong umumkan 23 ODP dan delapan PDP COVID-19,Antara,https://www.antaranews.com/berita/1370442/sorong-umumkan-23-odp-dan-delapan-pdp-covid-19
+2020-03-20_an_0095,2020-03-20,Kadin ajak dunia usaha dan masyarakat tetap tenang melawan corona,Antara,https://www.antaranews.com/berita/1370438/kadin-ajak-dunia-usaha-dan-masyarakat-tetap-tenang-melawan-corona
+2020-03-20_an_0096,2020-03-20,KCN dukung penuh Program Tol Laut,Antara,https://www.antaranews.com/berita/1370434/kcn-dukung-penuh-program-tol-laut
+2020-03-20_an_0097,2020-03-20,Tim epidemiologi Dinkes sterilisasi Lembaga Pemasyarakatan Tulungagung,Antara,https://www.antaranews.com/berita/1370430/tim-epidemiologi-dinkes-sterilisasi-lembaga-pemasyarakatan-tulungagung
+2020-03-20_an_0098,2020-03-20,Pemerintah gandeng KlikDokter bantu edukasi terkait COVID-19,Antara,https://www.antaranews.com/berita/1370426/pemerintah-gandeng-klikdokter-bantu-edukasi-terkait-covid-19
+2020-03-20_an_0099,2020-03-20,PCI ajak masyarakat maksimalkan internet untuk pelajari kriket,Antara,https://www.antaranews.com/berita/1370422/pci-ajak-masyarakat-maksimalkan-internet-untuk-pelajari-kriket
+2020-03-20_an_0100,2020-03-20,FKUI ingatkan BUMN ancaman potensi episentrum baru COVID-19,Antara,https://www.antaranews.com/berita/1370418/fkui-ingatkan-bumn-ancaman-potensi-episentrum-baru-covid-19
+2020-03-20_an_0101,2020-03-20,PSSI dukung produsen peralatan olahraga dalam negeri mendunia,Antara,https://www.antaranews.com/berita/1371166/pssi-dukung-produsen-peralatan-olahraga-dalam-negeri-mendunia
+2020-03-20_an_0102,2020-03-20,Wagub Kaltara tinjau kesiapan RSUD Tarakan tangani kasus corona,Antara,https://www.antaranews.com/berita/1371126/wagub-kaltara-tinjau-kesiapan-rsud-tarakan-tangani-kasus-corona
+2020-03-20_an_0103,2020-03-20,DPRD akan sahkan revisi Perda Ketertiban Umum cegah tawuran di Padang,Antara,https://www.antaranews.com/berita/1371162/dprd-akan-sahkan-revisi-perda-ketertiban-umum-cegah-tawuran-di-padang
+2020-03-20_an_0104,2020-03-20,Thomas & Uber Cup 2020 diundur akibat virus corona,Antara,https://www.antaranews.com/berita/1371158/thomas-uber-cup-2020-diundur-akibat-virus-corona
+2020-03-20_an_0105,2020-03-20,Pemprov Kepri semprot disinfektan di rumah ibadah hingga sekolah,Antara,https://www.antaranews.com/berita/1371154/pemprov-kepri-semprot-disinfektan-di-rumah-ibadah-hingga-sekolah
+2020-03-20_an_0106,2020-03-20,Semua fraksi DPRD Jember setuju gunakan hak menyatakan pendapat,Antara,https://www.antaranews.com/berita/1371150/semua-fraksi-dprd-jember-setuju-gunakan-hak-menyatakan-pendapat
+2020-03-20_an_0107,2020-03-20,Gubernur DIY tetapkan status tanggap darurat bencana COVID-19,Antara,https://www.antaranews.com/berita/1371146/gubernur-diy-tetapkan-status-tanggap-darurat-bencana-covid-19
+2020-03-20_an_0108,2020-03-20,Bappeda Provinsi Gorontalo terapkan rapat di luar ruangan,Antara,https://www.antaranews.com/berita/1371142/bappeda-provinsi-gorontalo-terapkan-rapat-di-luar-ruangan
+2020-03-20_an_0109,2020-03-20,Ditjen PAS siapkan blok khusus warga binaan terduga terjangkit Corona,Antara,https://www.antaranews.com/berita/1371138/ditjen-pas-siapkan-blok-khusus-warga-binaan-terduga-terjangkit-corona
+2020-03-20_an_0110,2020-03-20,Barcelona banderol Ivan Rakitic Rp341 miliar,Antara,https://www.antaranews.com/berita/1371130/barcelona-banderol-ivan-rakitic-rp341-miliar
+2020-03-20_an_0111,2020-03-20,Berbagai manfaat daun talas,Antara,https://www.antaranews.com/berita/1370410/berbagai-manfaat-daun-talas
+2020-03-20_an_0112,2020-03-20,"RSUD Soedono Madiun rawat 5 PDP, 1 di antaranya meninggal",Antara,https://www.antaranews.com/berita/1370370/rsud-soedono-madiun-rawat-5-pdp-1-di-antaranya-meninggal
+2020-03-20_an_0113,2020-03-20,"Gubernur canangkan ""Gorontalo Bergerak Cegah Corona""",Antara,https://www.antaranews.com/berita/1370406/gubernur-canangkan-gorontalo-bergerak-cegah-corona
+2020-03-20_an_0114,2020-03-20,"Percepat pengembangan EBT, pemerintah revisi regulasi",Antara,https://www.antaranews.com/berita/1370402/percepat-pengembangan-ebt-pemerintah-revisi-regulasi
+2020-03-20_an_0115,2020-03-20,Gubernur Jabar luncurkan aplikasi pusat informasi koordinasi corona,Antara,https://www.antaranews.com/berita/1370398/gubernur-jabar-luncurkan-aplikasi-pusat-informasi-koordinasi-corona
+2020-03-20_an_0116,2020-03-20,"OJK : Jangan khawatirkan pasar modal, fundamental saham bagus",Antara,https://www.antaranews.com/berita/1370390/ojk-jangan-khawatirkan-pasar-modal-fundamental-saham-bagus
+2020-03-20_an_0117,2020-03-20,ODP COVID-19 di Kalbar bertambah menjadi 682 orang,Antara,https://www.antaranews.com/berita/1370386/odp-covid-19-di-kalbar-bertambah-menjadi-682-orang
+2020-03-20_an_0118,2020-03-20,"Resep simpel hidangan penambah kekebalan tubuh, omelet dalam mug",Antara,https://www.antaranews.com/berita/1370382/resep-simpel-hidangan-penambah-kekebalan-tubuh-omelet-dalam-mug
+2020-03-20_an_0119,2020-03-20,"Terkait COVID-19, DPR tunda pembukaan masa sidang",Antara,https://www.antaranews.com/berita/1370378/terkait-covid-19-dpr-tunda-pembukaan-masa-sidang
+2020-03-20_an_0120,2020-03-20,Kapolda Metro: Stok pangan cukup hingga setelah lebaran,Antara,https://www.antaranews.com/berita/1370374/kapolda-metro-stok-pangan-cukup-hingga-setelah-lebaran
+2020-03-20_an_0121,2020-03-20,Barang rampasan dari 4 terpidana korupsi laku dilelang Rp400 juta,Antara,https://www.antaranews.com/berita/1370366/barang-rampasan-dari-4-terpidana-korupsi-laku-dilelang-rp400-juta
+2020-03-20_an_0122,2020-03-20,20.000 sopir truk di Jakarta beraktivitas normal,Antara,https://www.antaranews.com/berita/1370330/20000-sopir-truk-di-jakarta-beraktivitas-normal
+2020-03-20_an_0123,2020-03-20,Kapolda Sulteng: 2 DPO Poso menyerahkan diri kepada Polisi,Antara,https://www.antaranews.com/berita/1370362/kapolda-sulteng-2-dpo-poso-menyerahkan-diri-kepada-polisi
+2020-03-20_an_0124,2020-03-20,Indonesia tetap ekspor produk olahan jagung ke Vietnam,Antara,https://www.antaranews.com/berita/1370358/indonesia-tetap-ekspor-produk-olahan-jagung-ke-vietnam
+2020-03-20_an_0125,2020-03-20,Layanan kereta dan penerbangan di Inggris dikurangi tekan COVID-19,Antara,https://www.antaranews.com/berita/1370354/layanan-kereta-dan-penerbangan-di-inggris-dikurangi-tekan-covid-19
+2020-03-20_an_0126,2020-03-20,OJK siapkan pelonggaran kewajiban pembayaran di perusahaan pembiayaan,Antara,https://www.antaranews.com/berita/1370350/ojk-siapkan-pelonggaran-kewajiban-pembayaran-di-perusahaan-pembiayaan
+2020-03-20_an_0127,2020-03-20,Kosgoro bagikan masker gratis di Bundaran HI,Antara,https://www.antaranews.com/berita/1370346/kosgoro-bagikan-masker-gratis-di-bundaran-hi
+2020-03-20_an_0128,2020-03-20,Satpol-PP Pontianak razia sejumlah warkop dan kafe bandel,Antara,https://www.antaranews.com/berita/1370342/satpol-pp-pontianak-razia-sejumlah-warkop-dan-kafe-bandel
+2020-03-20_an_0129,2020-03-20,Ole minta Lukaku tetap di MU tapi Lukaku sudah tak bergairah,Antara,https://www.antaranews.com/berita/1370338/ole-minta-lukaku-tetap-di-mu-tapi-lukaku-sudah-tak-bergairah
+2020-03-20_an_0130,2020-03-20,RSPI SS dapat rujukan satu pasien positif COVID-19 gawat darurat,Antara,https://www.antaranews.com/berita/1370334/rspi-ss-dapat-rujukan-satu-pasien-positif-covid-19-gawat-darurat
+2020-03-20_an_0131,2020-03-20,"Antisipasi penyebaran COVID-19, Kantor LPSK disemprot disinfektan",Antara,https://www.antaranews.com/berita/1370322/antisipasi-penyebaran-covid-19-kantor-lpsk-disemprot-disinfektan
+2020-03-20_an_0132,2020-03-20,BI sudah kucurkan Rp300 triliun kawal rupiah dari tekanan COVID-19,Antara,https://www.antaranews.com/berita/1370282/bi-sudah-kucurkan-rp300-triliun-kawal-rupiah-dari-tekanan-covid-19
+2020-03-20_an_0133,2020-03-20,MPR dukung penghentian sementara visa kunjungan WNA,Antara,https://www.antaranews.com/berita/1370314/mpr-dukung-penghentian-sementara-visa-kunjungan-wna
+2020-03-20_an_0134,2020-03-20,Ekonom nilai masih ada ruang penurunan suku bunga acuan,Antara,https://www.antaranews.com/berita/1370310/ekonom-nilai-masih-ada-ruang-penurunan-suku-bunga-acuan
+2020-03-20_an_0135,2020-03-20,Bukit Asam - Pertamina teken kerja sama gasifikasi batu bara,Antara,https://www.antaranews.com/berita/1370306/bukit-asam-pertamina-teken-kerja-sama-gasifikasi-batu-bara
+2020-03-20_an_0136,2020-03-20,"Tidak takut ""panic buying"", warga Taiwan diminta banyak belanja",Antara,https://www.antaranews.com/berita/1370302/tidak-takut-panic-buying-warga-taiwan-diminta-banyak-belanja
+2020-03-20_an_0137,2020-03-20,Kemenkumham antisipasi penyebaran COVID-19 di rutan dan lapas,Antara,https://www.antaranews.com/berita/1370298/kemenkumham-antisipasi-penyebaran-covid-19-di-rutan-dan-lapas
+2020-03-20_an_0138,2020-03-20,Kemenperin dorong peningkatan investasi bahan penolong pengolahan ikan,Antara,https://www.antaranews.com/berita/1370294/kemenperin-dorong-peningkatan-investasi-bahan-penolong-pengolahan-ikan
+2020-03-20_an_0139,2020-03-20,Pemain PSIS divaksin sebagai antisipasi penularan COVID-19,Antara,https://www.antaranews.com/berita/1370290/pemain-psis-divaksin-sebagai-antisipasi-penularan-covid-19
+2020-03-20_an_0140,2020-03-20,"Atasi penyebaran COVID-19, perizinan alkes selesai satu hari",Antara,https://www.antaranews.com/berita/1370286/atasi-penyebaran-covid-19-perizinan-alkes-selesai-satu-hari
+2020-03-20_an_0141,2020-03-20,Wali Kota Jakarta Barat imbau warga tunda resepsi,Antara,https://www.antaranews.com/berita/1370278/wali-kota-jakarta-barat-imbau-warga-tunda-resepsi
+2020-03-20_an_0142,2020-03-20,Higuain dan Khedira pulang kampung padahal Italia lagi lockdown,Antara,https://www.antaranews.com/berita/1370242/higuain-dan-khedira-pulang-kampung-padahal-italia-lagi-lockdown
+2020-03-20_an_0143,2020-03-20,RSPI akan tambah kamar isolasi secara bertahap,Antara,https://www.antaranews.com/berita/1370274/rspi-akan-tambah-kamar-isolasi-secara-bertahap
+2020-03-20_an_0144,2020-03-20,Gegana semprot disinfektan vihara di Padang,Antara,https://www.antaranews.com/foto/1370270/gegana-semprot-disinfektan-vihara-di-padang
+2020-03-20_an_0145,2020-03-20,"Erick Thohir pastikan ketersediaan 4,7 juta masker dalam waktu dekat",Antara,https://www.antaranews.com/berita/1370266/erick-thohir-pastikan-ketersediaan-47-juta-masker-dalam-waktu-dekat
+2020-03-20_an_0146,2020-03-20,"Lawan COVID-19, Jokowi akan pesan jutaan obat Avigan dan Chloroquine",Antara,https://www.antaranews.com/video/1370250/lawan-covid-19-jokowi-akan-pesan-jutaan-obat-avigan-dan-chloroquine
+2020-03-20_an_0147,2020-03-20,"Mikel Arteta membaik, pusat pelatihan Arsenal dibuka kembali",Antara,https://www.antaranews.com/berita/1370262/mikel-arteta-membaik-pusat-pelatihan-arsenal-dibuka-kembali
+2020-03-20_an_0148,2020-03-20,Ombudsman soroti anggota DPRD Sumbar tidak melakukan pembatasan sosial,Antara,https://www.antaranews.com/berita/1370258/ombudsman-soroti-anggota-dprd-sumbar-tidak-melakukan-pembatasan-sosial
+2020-03-20_an_0149,2020-03-20,Banjir di Bekasi,Antara,https://www.antaranews.com/foto/1370254/banjir-di-bekasi
+2020-03-20_an_0150,2020-03-20,Hipmi minta pemerintah dukung dunia usaha terdampak COVID-19,Antara,https://www.antaranews.com/berita/1370246/hipmi-minta-pemerintah-dukung-dunia-usaha-terdampak-covid-19
+2020-03-20_an_0151,2020-03-20,"OJK pertimbangkan relaksasi ""leasing"" motor ojol dampak COVID-19",Antara,https://www.antaranews.com/berita/1370238/ojk-pertimbangkan-relaksasi-leasing-motor-ojol-dampak-covid-19
+2020-03-20_an_0152,2020-03-20,"Menkeu alokasikan Rp6,1 triliun untuk tenaga medis COVID-19",Antara,https://www.antaranews.com/berita/1370206/menkeu-alokasikan-rp61-triliun-untuk-tenaga-medis-covid-19
+2020-03-20_an_0153,2020-03-20,DPRD Pangkalpinang minta batasi kegiatan seremonial cegah Corona,Antara,https://www.antaranews.com/berita/1370234/dprd-pangkalpinang-minta-batasi-kegiatan-seremonial-cegah-corona
+2020-03-20_an_0154,2020-03-20,Polisi dalami dugaan penimbunan gula,Antara,https://www.antaranews.com/berita/1370230/polisi-dalami-dugaan-penimbunan-gula
+2020-03-20_an_0155,2020-03-20,Besuk warga binaan lewat video call,Antara,https://www.antaranews.com/video/1370178/besuk-warga-binaan-lewat-video-call
+2020-03-20_an_0156,2020-03-20,Apa itu social distancing? Berikut penjelasannya menurut Sosiolog UI,Antara,https://www.antaranews.com/video/1370130/apa-itu-social-distancing-berikut-penjelasannya-menurut-sosiolog-ui
+2020-03-20_an_0157,2020-03-20,  Infrastruktur rumah sakit dan rumah isolasi segera rampung,Antara,https://www.antaranews.com/video/1370210/presiden-infrastruktur-rumah-sakit-dan-rumah-isolasi-segera-rampung
+2020-03-20_an_0158,2020-03-20,Pemkot Bogor tetapkan status KLB COVID-19,Antara,https://www.antaranews.com/berita/1370222/pemkot-bogor-tetapkan-status-klb-covid-19
+2020-03-20_an_0159,2020-03-20,Jubir sebut orang positif COVID-19 tanpa gejala bisa isolasi di rumah,Antara,https://www.antaranews.com/berita/1370218/jubir-sebut-orang-positif-covid-19-tanpa-gejala-bisa-isolasi-di-rumah
+2020-03-20_an_0160,2020-03-20, 832 perguruan tinggi lakukan pembelajaran daring,Antara,https://www.antaranews.com/berita/1370214/mendikbud-832-perguruan-tinggi-lakukan-pembelajaran-daring
+2020-03-20_an_0161,2020-03-20,"Dampak corona, pemerintah beri keringanan kredit motor ojek daring",Antara,https://www.antaranews.com/berita/1370202/dampak-corona-pemerintah-beri-keringanan-kredit-motor-ojek-daring
+2020-03-20_an_0162,2020-03-20,"Bursa saham Singapura berakhir melonjak 4,32 persen",Antara,https://www.antaranews.com/berita/1370162/bursa-saham-singapura-berakhir-melonjak-432-persen
+2020-03-20_an_0163,2020-03-20,23 piton dan cobra dilepas liar di Taman Nasional Gunung Halimun Salak,Antara,https://www.antaranews.com/berita/1370198/23-piton-dan-cobra-dilepas-liar-di-taman-nasional-gunung-halimun-salak
+2020-03-20_an_0164,2020-03-20,"Bursa saham Malaysia 'rebound' ditutup terangkat 6,85 persen",Antara,https://www.antaranews.com/berita/1370194/bursa-saham-malaysia-rebound-ditutup-terangkat-685-persen
+2020-03-20_an_0165,2020-03-20,IOC akui bahas skenario Olimpiade tapi bukan pembatalan,Antara,https://www.antaranews.com/berita/1370190/ioc-akui-bahas-skenario-olimpiade-tapi-bukan-pembatalan
+2020-03-20_an_0166,2020-03-20,Anggota DPRD Padang tetap kunker kendati terdaftar ODP COVID-19,Antara,https://www.antaranews.com/berita/1370186/anggota-dprd-padang-tetap-kunker-kendati-terdaftar-odp-covid-19
+2020-03-20_an_0167,2020-03-20,Bandara Ngurah Rai datangkan 12 unit pemindai suhu tubuh,Antara,https://www.antaranews.com/berita/1370182/bandara-ngurah-rai-datangkan-12-unit-pemindai-suhu-tubuh
+2020-03-20_an_0168,2020-03-20,Meningkat permohonan izin tinggal WNA di NTB,Antara,https://www.antaranews.com/berita/1370174/meningkat-permohonan-izin-tinggal-wna-di-ntb
+2020-03-20_an_0169,2020-03-20,Banjir genangi sejumlah permukiman dan jalan di Jakarta Timur,Antara,https://www.antaranews.com/berita/1370170/banjir-genangi-sejumlah-permukiman-dan-jalan-di-jakarta-timur
+2020-03-20_an_0170,2020-03-20,Kinerja CSR Azelis telah mendapatkan pengakuan dengan pemberian rating EcoVadis Gold untuk yang kedua kalinya secara berturut-turut,Antara,https://www.antaranews.com/berita/1370166/kinerja-csr-azelis-telah-mendapatkan-pengakuan-dengan-pemberian-rating-ecovadis-gold-untuk-yang-kedua-kalinya-secara-berturut-turut
+2020-03-20_an_0171,2020-03-20,"UMM bagikan cairan pembersih tangan, karya mahasiswa",Antara,https://www.antaranews.com/berita/1370158/umm-bagikan-cairan-pembersih-tangan-karya-mahasiswa
+2020-03-20_an_0172,2020-03-20,"Rajin cuci tangan bikin kulit kering, ini tipsnya",Antara,https://www.antaranews.com/berita/1370118/rajin-cuci-tangan-bikin-kulit-kering-ini-tipsnya
+2020-03-20_an_0173,2020-03-20,Rupiah akhir pekan melemah sedikit di bawah Rp16.000 per dolar,Antara,https://www.antaranews.com/berita/1370154/rupiah-akhir-pekan-melemah-sedikit-di-bawah-rp16000-per-dolar
+2020-03-20_an_0174,2020-03-20, 62 RS di Jatim bisa dijadikan rujukan tangani COVID-19,Antara,https://www.antaranews.com/berita/1370150/gubernur-62-rs-di-jatim-bisa-dijadikan-rujukan-tangani-covid-19
+2020-03-20_an_0175,2020-03-20,Ketua Komisi VI DPR minta pemerintah bentuk peta jalan perdagangan,Antara,https://www.antaranews.com/berita/1370146/ketua-komisi-vi-dpr-minta-pemerintah-bentuk-peta-jalan-perdagangan
+2020-03-20_an_0176,2020-03-20,Jubir pemerintah: COVID-19 bisa sembuh sendiri berbasis imunitas,Antara,https://www.antaranews.com/berita/1370142/jubir-pemerintah-covid-19-bisa-sembuh-sendiri-berbasis-imunitas
+2020-03-20_an_0177,2020-03-20,Masjid KH Hasyim Asy'ari tiadakan Shalat Jumat guna cegah COVID-19,Antara,https://www.antaranews.com/berita/1370138/masjid-kh-hasyim-asyari-tiadakan-shalat-jumat-guna-cegah-covid-19
+2020-03-20_an_0178,2020-03-20,Dua pemain Los Angeles Lakers positif COVID-19,Antara,https://www.antaranews.com/berita/1370134/dua-pemain-los-angeles-lakers-positif-covid-19
+2020-03-20_an_0179,2020-03-20,Menteri Keuangan minta jangan ada korupsi anggaran penanganan COVID-19,Antara,https://www.antaranews.com/berita/1370126/menteri-keuangan-minta-jangan-ada-korupsi-anggaran-penanganan-covid-19
+2020-03-20_an_0180,2020-03-20,"Kelompok penyakit penyerta dominasi kematian COVID-19, kata Dekan FKUI",Antara,https://www.antaranews.com/berita/1370122/kelompok-penyakit-penyerta-dominasi-kematian-covid-19-kata-dekan-fkui
+2020-03-20_an_0181,2020-03-20,"Pikobar, aplikasi semua hal tentang COVID-19 milik Jabar",Antara,https://www.antaranews.com/video/1369854/pikobar-aplikasi-semua-hal-tentang-covid-19-milik-jabar
+2020-03-20_an_0182,2020-03-20,Tiga WNI dirawat ICU di Singapura karena COVID-19,Antara,https://www.antaranews.com/berita/1370082/tiga-wni-dirawat-icu-di-singapura-karena-covid-19
+2020-03-20_an_0183,2020-03-20,Shalat Jumat di berbagai daerah pascafatwa MUI,Antara,https://www.antaranews.com/foto/1370114/shalat-jumat-di-berbagai-daerah-pascafatwa-mui
+2020-03-20_an_0184,2020-03-20, Jangan ragu tegur orang yang abai protokol kesehatan,Antara,https://www.antaranews.com/berita/1370110/presiden-jangan-ragu-tegur-orang-yang-abai-protokol-kesehatan
+2020-03-20_an_0185,2020-03-20,Korem Gapo Sumsel antisipasi penyebaran virus corona,Antara,https://www.antaranews.com/berita/1370106/korem-gapo-sumsel-antisipasi-penyebaran-virus-corona
+2020-03-20_an_0186,2020-03-20,"Negatif corona, RSMS Purwokerto pulangkan 3 PDP",Antara,https://www.antaranews.com/berita/1370102/negatif-corona-rsms-purwokerto-pulangkan-3-pdp
+2020-03-20_an_0187,2020-03-20,Pemerintah siapkan 1 juta kit periksa 700 ribu orang berisiko COVID-19,Antara,https://www.antaranews.com/berita/1370098/pemerintah-siapkan-1-juta-kit-periksa-700-ribu-orang-berisiko-covid-19
+2020-03-20_an_0188,2020-03-20,Liga Premier 2020-2021 mulai setelah musim ini tuntas,Antara,https://www.antaranews.com/berita/1370094/liga-premier-2020-2021-mulai-setelah-musim-ini-tuntas
+2020-03-20_an_0189,2020-03-20,HIPMI Jaya usulkan keringanan pajak,Antara,https://www.antaranews.com/berita/1370090/hipmi-jaya-usulkan-keringanan-pajak
+2020-03-20_an_0190,2020-03-20,Muhammadiyah Surabaya buka posko dan dapur umum lawan COVID-19,Antara,https://www.antaranews.com/berita/1370086/muhammadiyah-surabaya-buka-posko-dan-dapur-umum-lawan-covid-19
+2020-03-20_an_0191,2020-03-20,"Tanggap COVID-19, Kemenhan gelar donor darah",Antara,https://www.antaranews.com/berita/1370078/tanggap-covid-19-kemenhan-gelar-donor-darah
+2020-03-20_an_0192,2020-03-20,"Hentikan penurunan, IHSG akhir pekan ditutup berbalik menguat",Antara,https://www.antaranews.com/berita/1370042/hentikan-penurunan-ihsg-akhir-pekan-ditutup-berbalik-menguat
+2020-03-20_an_0193,2020-03-20,Erick minta bank BUMN turunkan suku bunga UKM terdampak COVID-19,Antara,https://www.antaranews.com/berita/1370074/erick-minta-bank-bumn-turunkan-suku-bunga-ukm-terdampak-covid-19
+2020-03-20_an_0194,2020-03-20,AS peringatkan warganya bisa terjebak di luar negeri karena corona,Antara,https://www.antaranews.com/berita/1370070/as-peringatkan-warganya-bisa-terjebak-di-luar-negeri-karena-corona
+2020-03-20_an_0195,2020-03-20,Gubernur Sultra: Riwayat tiga pasien positif COVID-19 dari umrah,Antara,https://www.antaranews.com/berita/1370066/gubernur-sultra-riwayat-tiga-pasien-positif-covid-19-dari-umrah
+2020-03-20_an_0196,2020-03-20,"Microsoft Teams beri fitur-fitur baru tunjang ""work from home""",Antara,https://www.antaranews.com/berita/1370062/microsoft-teams-beri-fitur-fitur-baru-tunjang-work-from-home
+2020-03-20_an_0197,2020-03-20,Menkeu akan konsultasi dengan BPK terkait anggaran penanganan COVID-19,Antara,https://www.antaranews.com/berita/1370058/menkeu-akan-konsultasi-dengan-bpk-terkait-anggaran-penanganan-covid-19
+2020-03-20_an_0198,2020-03-20,Monumen SLG Kediri tutup sementara,Antara,https://www.antaranews.com/foto/1370054/monumen-slg-kediri-tutup-sementara
+2020-03-20_an_0199,2020-03-20,India eksekusi mati empat pria pemerkosa dan pembunuh,Antara,https://www.antaranews.com/berita/1370050/india-eksekusi-mati-empat-pria-pemerkosa-dan-pembunuh
+2020-03-20_an_0200,2020-03-20,Visa WNA ke RI dihentikan sementara waktu,Antara,https://www.antaranews.com/berita/1370046/visa-wna-ke-ri-dihentikan-sementara-waktu
+2020-03-20_an_0201,2020-03-20,BPJamsostek Denpasar siapkan antrean daring untuk pengajuan klaim,Antara,https://www.antaranews.com/berita/1370038/bpjamsostek-denpasar-siapkan-antrean-daring-untuk-pengajuan-klaim
+2020-03-20_an_0202,2020-03-20,Pelintas WNA dari Timor Leste mulai diberlakukan wajib VISA,Antara,https://www.antaranews.com/berita/1370006/pelintas-wna-dari-timor-leste-mulai-diberlakukan-wajib-visa
+2020-03-20_an_0203,2020-03-20,Jubir pemerintah: Positif asal Riau ternyata tinggal di Jakarta,Antara,https://www.antaranews.com/berita/1370034/jubir-pemerintah-positif-asal-riau-ternyata-tinggal-di-jakarta
+2020-03-20_an_0204,2020-03-20,Jokowi minta Bank Indonesia jaga stabilitas Rupiah,Antara,https://www.antaranews.com/video/1370002/jokowi-minta-bank-indonesia-jaga-stabilitas-rupiah
+2020-03-20_an_0205,2020-03-20,Gagap pembelajaran daring,Antara,https://www.antaranews.com/berita/1370030/gagap-pembelajaran-daring
+2020-03-20_an_0206,2020-03-20,"Rentan COVID-19, eks presiden Peru dibebaskan hakim dengan jaminan",Antara,https://www.antaranews.com/berita/1370026/rentan-covid-19-eks-presiden-peru-dibebaskan-hakim-dengan-jaminan
+2020-03-20_an_0207,2020-03-20,"Saham China ditutup menguat, hentikan penurunan tujuh hari beruntun",Antara,https://www.antaranews.com/berita/1370022/saham-china-ditutup-menguat-hentikan-penurunan-tujuh-hari-beruntun
+2020-03-20_an_0208,2020-03-20,Pemerintah sudah siapkan 2.000 perangkat pemeriksaan cepat COVID-19,Antara,https://www.antaranews.com/berita/1370018/pemerintah-sudah-siapkan-2000-perangkat-pemeriksaan-cepat-covid-19
+2020-03-20_an_0209,2020-03-20,Penyesuaian jam operasional mall di Bali,Antara,https://www.antaranews.com/foto/1370014/penyesuaian-jam-operasional-mall-di-bali
+2020-03-20_an_0210,2020-03-20,Jubir pemerintah: Positif COVID-19 belum tentu perlu dirawat di RS,Antara,https://www.antaranews.com/berita/1370010/jubir-pemerintah-positif-covid-19-belum-tentu-perlu-dirawat-di-rs
+2020-03-20_an_0211,2020-03-20,Beto minta masyarakat tidak remehkan virus corona,Antara,https://www.antaranews.com/berita/1371122/beto-minta-masyarakat-tidak-remehkan-virus-corona
+2020-03-20_an_0212,2020-03-20,Pemerintah Pusat setujui Laboratorium RSUD NTB deteksi Covid-19,Antara,https://www.antaranews.com/berita/1371086/pemerintah-pusat-setujui-laboratorium-rsud-ntb-deteksi-covid-19
+2020-03-20_an_0213,2020-03-20,Bupati Bogor Ade Yasin lakukan tes COVID-19,Antara,https://www.antaranews.com/berita/1371118/bupati-bogor-ade-yasin-lakukan-tes-covid-19
+2020-03-20_an_0214,2020-03-20,Kapolda pimpin rapimda TNI-Polri terkait pilkada 11 kabupaten di Papua,Antara,https://www.antaranews.com/berita/1371114/kapolda-pimpin-rapimda-tni-polri-terkait-pilkada-11-kabupaten-di-papua
+2020-03-20_an_0215,2020-03-20,"Tolak potong gaji, FC Sion pecat sembilan pemain termasuk Alex Song",Antara,https://www.antaranews.com/berita/1371110/tolak-potong-gaji-fc-sion-pecat-sembilan-pemain-termasuk-alex-song
+2020-03-20_an_0216,2020-03-20,Dua anggota kelompok MIT Poso menyerahkan diri,Antara,https://www.antaranews.com/video/1371106/dua-anggota-kelompok-mit-poso-menyerahkan-diri
+2020-03-20_an_0217,2020-03-20,"Layanan pengiriman produk pertanian Swiss ""tumbuh subur"" di era corona",Antara,https://www.antaranews.com/berita/1371102/layanan-pengiriman-produk-pertanian-swiss-tumbuh-subur-di-era-corona
+2020-03-20_an_0218,2020-03-20,Gubernur Kalsel pimpin sterilisasi masjid sebelum digunakan ibadah Jumat,Antara,https://www.antaranews.com/video/1371098/gubernur-kalsel-pimpin-sterilisasi-masjid-sebelum-digunakan-ibadah-jumat
+2020-03-20_an_0219,2020-03-20,Legislator nilai penghapusan izin impor bawang rugikan petani,Antara,https://www.antaranews.com/berita/1371094/legislator-nilai-penghapusan-izin-impor-bawang-rugikan-petani
+2020-03-20_an_0220,2020-03-20,"Pemkab Bantul semprot disinfektan di Pasar Imogiri, cegah COVID-19",Antara,https://www.antaranews.com/berita/1371090/pemkab-bantul-semprot-disinfektan-di-pasar-imogiri-cegah-covid-19
+2020-03-20_an_0221,2020-03-20,Yayasan Buddha Tzu Chi serahkan donasi ribuan APD ke RSCM,Antara,https://www.antaranews.com/berita/1369998/yayasan-buddha-tzu-chi-serahkan-donasi-ribuan-apd-ke-rscm
+2020-03-20_an_0222,2020-03-20,Dataiku 7 membawa kolaborasi lebih mendalam dan lebih banyak penjelasan granular untuk Enterprise AI,Antara,https://www.antaranews.com/berita/1369966/dataiku-7-membawa-kolaborasi-lebih-mendalam-dan-lebih-banyak-penjelasan-granular-untuk-enterprise-ai
+2020-03-20_an_0223,2020-03-20,Penyemprotan disinfektan di Jakarta Timur diperluas,Antara,https://www.antaranews.com/berita/1369994/penyemprotan-disinfektan-di-jakarta-timur-diperluas
+2020-03-20_an_0224,2020-03-20,Mendagri siapkan gedung di daerah untuk ruang isolasi cadangan,Antara,https://www.antaranews.com/berita/1369990/mendagri-siapkan-gedung-di-daerah-untuk-ruang-isolasi-cadangan
+2020-03-20_an_0225,2020-03-20,Presiden Jokowi: Pemerintah siapkan dua jenis obat untuk COVID-19,Antara,https://www.antaranews.com/berita/1369986/presiden-jokowi-pemerintah-siapkan-dua-jenis-obat-untuk-covid-19
+2020-03-20_an_0226,2020-03-20,"Bursa saham Seoul berakhir melonjak 7,44 persen",Antara,https://www.antaranews.com/berita/1369982/bursa-saham-seoul-berakhir-melonjak-744-persen
+2020-03-20_an_0227,2020-03-20, Jakarta Selatan tempat pertama tes cepat COVID-19,Antara,https://www.antaranews.com/berita/1369978/presiden-jakarta-selatan-tempat-pertama-tes-cepat-covid-19
+2020-03-20_an_0228,2020-03-20,Polres Gunung Kidul tidak melayani izin kegiatan pengerahan massa,Antara,https://www.antaranews.com/berita/1369974/polres-gunung-kidul-tidak-melayani-izin-kegiatan-pengerahan-massa
+2020-03-20_an_0229,2020-03-20,Bulog dan Pemkot Tangerang gelar operasi beras murah,Antara,https://www.antaranews.com/video/1369866/bulog-dan-pemkot-tangerang-gelar-operasi-beras-murah
+2020-03-20_an_0230,2020-03-20,Pengusaha target kumpulkan Rp20 miliar bantu COVID-19,Antara,https://www.antaranews.com/berita/1369970/pengusaha-target-kumpulkan-rp20-miliar-bantu-covid-19
+2020-03-20_an_0231,2020-03-20,"Bursa saham Filipina ""rebound"" ditutup terangkat 3,36 persen",Antara,https://www.antaranews.com/berita/1369962/bursa-saham-filipina-rebound-ditutup-terangkat-336-persen
+2020-03-20_an_0232,2020-03-20,"Kader PDI Perjuangan Garut bagikan ""hand sanitizer"" di tempat umum",Antara,https://www.antaranews.com/berita/1369926/kader-pdi-perjuangan-garut-bagikan-hand-sanitizer-di-tempat-umum
+2020-03-20_an_0233,2020-03-20," Rp62,3 triliun belanja APBN bisa direalokasi tangani COVID-19",Antara,https://www.antaranews.com/berita/1369958/menkeu-rp623-triliun-belanja-apbn-bisa-direalokasi-tangani-covid-19
+2020-03-20_an_0234,2020-03-20,PMI Solo bagikan handsanitizer dan masker kepada pendonor,Antara,https://www.antaranews.com/foto/1369954/pmi-solo-bagikan-handsanitizer-dan-masker-kepada-pendonor
+2020-03-20_an_0235,2020-03-20,"Dukung kemudahan belajar online, LinkAja berkolaborasi dengan Pahamify",Antara,https://www.antaranews.com/berita/1369950/dukung-kemudahan-belajar-online-linkaja-berkolaborasi-dengan-pahamify
+2020-03-20_an_0236,2020-03-20,"Kasus positif COVID-19 bertambah jadi 369, 32 orang meninggal",Antara,https://www.antaranews.com/berita/1369946/kasus-positif-covid-19-bertambah-jadi-369-32-orang-meninggal
+2020-03-20_an_0237,2020-03-20, Saya kerahkan seluruh kekuatan bangsa tangani COVID-19,Antara,https://www.antaranews.com/berita/1369942/jokowi-saya-kerahkan-seluruh-kekuatan-bangsa-tangani-covid-19
+2020-03-20_an_0238,2020-03-20,"Hoaks, Indonesia akan berlakukan ""lockdown""",Antara,https://www.antaranews.com/berita/1369938/hoaks-indonesia-akan-berlakukan-lockdown
+2020-03-20_an_0239,2020-03-20,Aneka kreasi permainan dari karet gelang,Antara,https://www.antaranews.com/berita/1369934/aneka-kreasi-permainan-dari-karet-gelang
+2020-03-20_an_0240,2020-03-20,Pemerintah mulai lakukan pemeriksaan COVID-19 secara massal,Antara,https://www.antaranews.com/berita/1369930/pemerintah-mulai-lakukan-pemeriksaan-covid-19-secara-massal
+2020-03-20_an_0241,2020-03-20,"Kai EXO terpilih jadi ""ambassador"" Gucci dua tahun berturut-turut",Antara,https://www.antaranews.com/berita/1369922/kai-exo-terpilih-jadi-ambassador-gucci-dua-tahun-berturut-turut
+2020-03-20_an_0242,2020-03-20,"Cegah COVID-19, Pelabuhan Ulee Lheue-Aceh disemprot disinfektan",Antara,https://www.antaranews.com/berita/1369890/cegah-covid-19-pelabuhan-ulee-lheue-aceh-disemprot-disinfektan
+2020-03-20_an_0243,2020-03-20,Bursa saham Australia berakhir naik setelah seminggu bergejolak,Antara,https://www.antaranews.com/berita/1369918/bursa-saham-australia-berakhir-naik-setelah-seminggu-bergejolak
+2020-03-20_an_0244,2020-03-20,Belasan titik disemprot disinfektan oleh Satgas COVID-19 Badung-Bali,Antara,https://www.antaranews.com/berita/1369914/belasan-titik-disemprot-disinfektan-oleh-satgas-covid-19-badung-bali
+2020-03-20_an_0245,2020-03-20,"Cegah COVID-19, Situs candi di Sleman disemprot disinfektan",Antara,https://www.antaranews.com/video/1369806/cegah-covid-19-situs-candi-di-sleman-disemprot-disinfektan
+2020-03-20_an_0246,2020-03-20,PMI DIY siapkan personel bantu penyemprotan disinfektan di area publik,Antara,https://www.antaranews.com/berita/1369910/pmi-diy-siapkan-personel-bantu-penyemprotan-disinfektan-di-area-publik
+2020-03-20_an_0247,2020-03-20,TNI bangun barak di dekat Wisma Atlet Kemayoran,Antara,https://www.antaranews.com/berita/1369906/tni-bangun-barak-di-dekat-wisma-atlet-kemayoran
+2020-03-20_an_0248,2020-03-20, Sampah masker jadi masalah baru lingkungan,Antara,https://www.antaranews.com/berita/1369902/ecoton-sampah-masker-jadi-masalah-baru-lingkungan
+2020-03-20_an_0249,2020-03-20,Pelepasan pasukan Brimob ke Papua,Antara,https://www.antaranews.com/foto/1369898/pelepasan-pasukan-brimob-ke-papua
+2020-03-20_an_0250,2020-03-20,Kejari limpahkan berkas kasus pembunuhan Jamaluddin ke PN Medan,Antara,https://www.antaranews.com/berita/1369894/kejari-limpahkan-berkas-kasus-pembunuhan-jamaluddin-ke-pn-medan
+2020-03-20_an_0251,2020-03-20,Shalat Jumat Ponpes Lirboyo,Antara,https://www.antaranews.com/foto/1369886/shalat-jumat-ponpes-lirboyo
+2020-03-20_an_0252,2020-03-20,Moeldoko tegaskan Kartu Pra-Kerja bukan untuk gaji pengangguran,Antara,https://www.antaranews.com/berita/1369838/moeldoko-tegaskan-kartu-pra-kerja-bukan-untuk-gaji-pengangguran
+2020-03-20_an_0253,2020-03-20, Dua warga Kalimantan Tengah terserang COVID-19,Antara,https://www.antaranews.com/berita/1369882/gubernur-dua-warga-kalimantan-tengah-terserang-covid-19
+2020-03-20_an_0254,2020-03-20,Satgas Pangan NTB pastikan tidak ada penimbunan bahan pokok,Antara,https://www.antaranews.com/berita/1369878/satgas-pangan-ntb-pastikan-tidak-ada-penimbunan-bahan-pokok
+2020-03-20_an_0255,2020-03-20,Pandemi COVID-19 momentum migrasi layanan pendidikan ke digital,Antara,https://www.antaranews.com/berita/1369870/pandemi-covid-19-momentum-migrasi-layanan-pendidikan-ke-digital
+2020-03-20_an_0256,2020-03-20,"""Top-up"" tunai di Tol Bakauheni-Terbanggi Besar ditutup mulai besok",Antara,https://www.antaranews.com/berita/1369862/top-up-tunai-di-tol-bakauheni-terbanggi-besar-ditutup-mulai-besok
+2020-03-20_an_0257,2020-03-20,Kasus dugaan korupsi alat kesehatan RSUD Padang segera disidangkan,Antara,https://www.antaranews.com/berita/1369858/kasus-dugaan-korupsi-alat-kesehatan-rsud-padang-segera-disidangkan
+2020-03-20_an_0258,2020-03-20,Ibu hamil-orang sakit-anak diimbau tidak ke pasar antisipasi COVID-19,Antara,https://www.antaranews.com/berita/1369850/ibu-hamil-orang-sakit-anak-diimbau-tidak-ke-pasar-antisipasi-covid-19
+2020-03-20_an_0259,2020-03-20,Menkeu akan tindak tegas jika ada korupsi dalam penanganan COVID-19,Antara,https://www.antaranews.com/berita/1369846/menkeu-akan-tindak-tegas-jika-ada-korupsi-dalam-penanganan-covid-19
+2020-03-20_an_0260,2020-03-20,Pemerintah hentikan sementara pemberian bebas visa kunjungan,Antara,https://www.antaranews.com/berita/1369842/pemerintah-hentikan-sementara-pemberian-bebas-visa-kunjungan
+2020-03-20_an_0261,2020-03-20,Kunjungan Rutan Temanggung diganti dengan video call,Antara,https://www.antaranews.com/video/1369770/kunjungan-rutan-temanggung-diganti-dengan-video-call
+2020-03-20_an_0262,2020-03-20,"Tak gelar Shalat Jumat, Masjid Al Munawwar laksanakan Dzuhur berjamaah",Antara,https://www.antaranews.com/berita/1369802/tak-gelar-shalat-jumat-masjid-al-munawwar-laksanakan-dzuhur-berjamaah
+2020-03-20_an_0263,2020-03-20,BI : Pandemi COVID-19 buat seluruh pasar keuangan panik,Antara,https://www.antaranews.com/berita/1369834/bi-pandemi-covid-19-buat-seluruh-pasar-keuangan-panik
+2020-03-20_an_0264,2020-03-20,Pemerintah kebut Wisma Atlet Kemayoran jadi RS Darurat COVID-19,Antara,https://www.antaranews.com/berita/1369830/pemerintah-kebut-wisma-atlet-kemayoran-jadi-rs-darurat-covid-19
+2020-03-20_an_0265,2020-03-20,Tips memberikan penjelasan COVID - 19 kepada anak,Antara,https://www.antaranews.com/video/1369658/tips-memberikan-penjelasan-covid-19-kepada-anak
+2020-03-20_an_0266,2020-03-20,Kementerian PUPR rampungkan 120 jembatan gantung di sejumlah provinsi,Antara,https://www.antaranews.com/berita/1369826/kementerian-pupr-rampungkan-120-jembatan-gantung-di-sejumlah-provinsi
+2020-03-20_an_0267,2020-03-20,Menkominfo Johnny G Plate negatif corona,Antara,https://www.antaranews.com/berita/1369822/menkominfo-johnny-g-plate-negatif-corona
+2020-03-20_an_0268,2020-03-20,PSS Sleman liburkan pemain hingga 30 Maret,Antara,https://www.antaranews.com/berita/1369818/pss-sleman-liburkan-pemain-hingga-30-maret
+2020-03-20_an_0269,2020-03-20,"Akibat COVID-19, larangan truk kelebihan muatan dan dimensi ditunda",Antara,https://www.antaranews.com/berita/1369814/akibat-covid-19-larangan-truk-kelebihan-muatan-dan-dimensi-ditunda
+2020-03-20_an_0270,2020-03-20,Kementan gandeng produsen pangan jagan ketersediaan pasokan,Antara,https://www.antaranews.com/berita/1369810/kementan-gandeng-produsen-pangan-jagan-ketersediaan-pasokan
+2020-03-20_an_0271,2020-03-20, Bisa ada sanksi jika masyarakat tak sadar pembatasan sosial,Antara,https://www.antaranews.com/berita/1369798/sosiolog-bisa-ada-sanksi-jika-masyarakat-tak-sadar-pembatasan-sosial
+2020-03-20_an_0272,2020-03-20,Masjid Istiqlal tidak menggelar shalat Jumat berjamaah,Antara,https://www.antaranews.com/foto/1369762/masjid-istiqlal-tidak-menggelar-shalat-jumat-berjamaah
+2020-03-20_an_0273,2020-03-20,"Kesehatan, sosial, dan ekonomi jadi fokus BUMN di tengah COVID-19",Antara,https://www.antaranews.com/berita/1369794/kesehatan-sosial-dan-ekonomi-jadi-fokus-bumn-di-tengah-covid-19
+2020-03-20_an_0274,2020-03-20,Seluruh area kampus Universitas Brawijaya disemprot disinfektan,Antara,https://www.antaranews.com/berita/1369790/seluruh-area-kampus-universitas-brawijaya-disemprot-disinfektan
+2020-03-20_an_0275,2020-03-20,"Mayoritas warga ""WFH"", YouTube justru kurangi kualitas streaming",Antara,https://www.antaranews.com/berita/1369786/mayoritas-warga-wfh-youtube-justru-kurangi-kualitas-streaming
+2020-03-20_an_0276,2020-03-20,KPK imbau masyarakat waspadai modus penipuan rekrutmen pegawai,Antara,https://www.antaranews.com/berita/1369782/kpk-imbau-masyarakat-waspadai-modus-penipuan-rekrutmen-pegawai
+2020-03-20_an_0277,2020-03-20,Kartu Pra Kerja akhirnya resmi diluncurkan,Antara,https://www.antaranews.com/video/1369530/kartu-pra-kerja-akhirnya-resmi-diluncurkan
+2020-03-20_an_0278,2020-03-20,"Cecah COVID19, Masjid kompleks Balai Kota Yogyakarta tiadakan jumatan",Antara,https://www.antaranews.com/berita/1369778/cecah-covid19-masjid-kompleks-balai-kota-yogyakarta-tiadakan-jumatan
+2020-03-20_an_0279,2020-03-20,Dirut Pasar Jaya siapkan pasar online antisipasi meluasnya COVID-19,Antara,https://www.antaranews.com/berita/1369774/dirut-pasar-jaya-siapkan-pasar-online-antisipasi-meluasnya-covid-19
+2020-03-20_an_0280,2020-03-20,Tentara Malaysia bantu PDRM tegakkan aturan tinggal di rumah,Antara,https://www.antaranews.com/berita/1369766/tentara-malaysia-bantu-pdrm-tegakkan-aturan-tinggal-di-rumah
+2020-03-20_an_0281,2020-03-20,Kementerian Koperasi usulkan relaksasi leasing motor ojek daring,Antara,https://www.antaranews.com/berita/1369758/kementerian-koperasi-usulkan-relaksasi-leasing-motor-ojek-daring
+2020-03-20_an_0282,2020-03-20,"Malaysia ""lockdwon"", KJRI Kota Kinabalu liburkan anak TKI di Sabah",Antara,https://www.antaranews.com/berita/1369730/malaysia-lockdwon-kjri-kota-kinabalu-liburkan-anak-tki-di-sabah
+2020-03-20_an_0283,2020-03-20,Jokowi minta Pemda beri UMKM insentif hadapi COVID-19,Antara,https://www.antaranews.com/video/1369558/jokowi-minta-pemda-beri-umkm-insentif-hadapi-covid-19
+2020-03-20_an_0284,2020-03-20,Cerita Zaskia Mecca dan keluarga pilih isolasi di Yogyakarta,Antara,https://www.antaranews.com/berita/1369754/cerita-zaskia-mecca-dan-keluarga-pilih-isolasi-di-yogyakarta
+2020-03-20_an_0285,2020-03-20,Malaysia deportasi 114 pekerja migran Indonesia melalui Kalbar,Antara,https://www.antaranews.com/berita/1369750/malaysia-deportasi-114-pekerja-migran-indonesia-melalui-kalbar
+2020-03-20_an_0286,2020-03-20,Petani Temanggung rintis wisata hortikultura petik buah,Antara,https://www.antaranews.com/berita/1369746/petani-temanggung-rintis-wisata-hortikultura-petik-buah
+2020-03-20_an_0287,2020-03-20,Pemerintah segera terbitkan Perpres kemudahan pengadaan barang/jasa,Antara,https://www.antaranews.com/berita/1369742/pemerintah-segera-terbitkan-perpres-kemudahan-pengadaan-barang-jasa
+2020-03-20_an_0288,2020-03-20,Pemkot Bandung siapkan Rp7 M tangani COVID-19,Antara,https://www.antaranews.com/video/1369314/pemkot-bandung-siapkan-rp7-m-tangani-covid-19
+2020-03-20_an_0289,2020-03-20,Gubernur BI: Kami minta perbankan turunkan suku bunga kredit,Antara,https://www.antaranews.com/berita/1369738/gubernur-bi-kami-minta-perbankan-turunkan-suku-bunga-kredit
+2020-03-20_an_0290,2020-03-20,OJK mulai terapkan kebijakan pemberian stimulus industri perbankan,Antara,https://www.antaranews.com/berita/1369734/ojk-mulai-terapkan-kebijakan-pemberian-stimulus-industri-perbankan
+2020-03-20_an_0291,2020-03-20,1 SSK Brimob Polda Kalteng di BKO ke Papua,Antara,https://www.antaranews.com/video/1369710/1-ssk-brimob-polda-kalteng-di-bko-ke-papua
+2020-03-20_an_0292,2020-03-20,Yasonna dan JK pantau penyemprotan disinfektan di Lapas Cipinang,Antara,https://www.antaranews.com/video/1369662/yasonna-dan-jk-pantau-penyemprotan-disinfektan-di-lapas-cipinang
+2020-03-20_an_0293,2020-03-20,Pasien COVID-19 di Jawa Timur bertambah,Antara,https://www.antaranews.com/video/1369426/pasien-covid-19-di-jawa-timur-bertambah
+2020-03-20_an_0294,2020-03-20,Pemprov Lampung  diminta telusuri  jamaah tablig dari Malaysia,Antara,https://www.antaranews.com/berita/1369726/pemprov-lampung-diminta-telusuri-jamaah-tablig-dari-malaysia
+2020-03-20_an_0295,2020-03-20,Toyota perpanjang penghentian produksi di Amerika hingga April,Antara,https://otomotif.antaranews.com/berita/1369722/toyota-perpanjang-penghentian-produksi-di-amerika-hingga-april
+2020-03-20_an_0296,2020-03-20,Kemenhub jalankan kebijakan jaga jarak di angkutan umum,Antara,https://www.antaranews.com/berita/1369718/kemenhub-jalankan-kebijakan-jaga-jarak-di-angkutan-umum
+2020-03-20_an_0297,2020-03-20,"Demokrat sarankan ""lockdown"" di kota-kota tertentu",Antara,https://www.antaranews.com/berita/1369714/demokrat-sarankan-lockdown-di-kota-kota-tertentu
+2020-03-20_an_0298,2020-03-20,Imam Prasodjo sarankan tiga pertahanan untuk mencegah COVID-19,Antara,https://www.antaranews.com/berita/1369706/imam-prasodjo-sarankan-tiga-pertahanan-untuk-mencegah-covid-19
+2020-03-20_an_0299,2020-03-20,"Vidio rilis ""OMEN"", serial ber-genre ""thriller"" dan misteri",Antara,https://www.antaranews.com/berita/1369702/vidio-rilis-omen-serial-ber-genre-thriller-dan-misteri
+2020-03-20_an_0300,2020-03-20,YouTube turunkan kualitas streaming di Eropa karena corona,Antara,https://www.antaranews.com/berita/1369698/youtube-turunkan-kualitas-streaming-di-eropa-karena-corona
+2020-03-20_an_0301,2020-03-20,Gubernur tinjau kepulangan peserta itjima dunia di Bandara Hasanuddin,Antara,https://www.antaranews.com/berita/1369694/gubernur-tinjau-kepulangan-peserta-itjima-dunia-di-bandara-hasanuddin
+2020-03-20_an_0302,2020-03-20,Penularan COVID-19 di Yogyakarta terbagi dalam tiga kluster,Antara,https://www.antaranews.com/berita/1369654/penularan-covid-19-di-yogyakarta-terbagi-dalam-tiga-kluster
+2020-03-20_an_0303,2020-03-20,KJRI Kota Kinabalu serukan WNI peserta jamaah tabliq periksakan diri,Antara,https://www.antaranews.com/berita/1369690/kjri-kota-kinabalu-serukan-wni-peserta-jamaah-tabliq-periksakan-diri
+2020-03-20_an_0304,2020-03-20,"Nokia luncurkan ponsel ""jadul"" dan tiga Android baru",Antara,https://www.antaranews.com/berita/1369686/nokia-luncurkan-ponsel-jadul-dan-tiga-android-baru
+2020-03-20_an_0305,2020-03-20,PD Pasar Jaya: Stok pangan di Jakarta masih aman,Antara,https://www.antaranews.com/berita/1369682/pd-pasar-jaya-stok-pangan-di-jakarta-masih-aman
+2020-03-20_an_0306,2020-03-20,"Imam Prasodjo: Social distancing itu ""ojo dempet-dempet""",Antara,https://www.antaranews.com/berita/1369678/imam-prasodjo-social-distancing-itu-ojo-dempet-dempet
+2020-03-20_an_0307,2020-03-20,Menteri Erick pesan test kit COVID-19 dari Swiss,Antara,https://www.antaranews.com/berita/1369674/menteri-erick-pesan-test-kit-covid-19-dari-swiss
+2020-03-20_an_0308,2020-03-20,"Harga kedelai impor naik, produksi tahu menurun tajam",Antara,https://www.antaranews.com/foto/1369670/harga-kedelai-impor-naik-produksi-tahu-menurun-tajam
+2020-03-20_an_0309,2020-03-20,Merangkai bambu bekas menjadi kincir air yang menarik,Antara,https://www.antaranews.com/video/1369594/merangkai-bambu-bekas-menjadi-kincir-air-yang-menarik
+2020-03-20_an_0310,2020-03-20,"Hanin Dhiya dan Aldy Maldini kolaborasi rilis ""Benar Cinta""",Antara,https://www.antaranews.com/berita/1369666/hanin-dhiya-dan-aldy-maldini-kolaborasi-rilis-benar-cinta
+2020-03-20_an_0311,2020-03-20,"Mengenal tokoh di Google Doodle hari ini, Dr Ignaz Semmelweis",Antara,https://www.antaranews.com/berita/1369650/mengenal-tokoh-di-google-doodle-hari-ini-dr-ignaz-semmelweis
+2020-03-20_an_0312,2020-03-20,Polisi sosialisasi penanganan COVID-19 di Morotai,Antara,https://www.antaranews.com/berita/1369614/polisi-sosialisasi-penanganan-covid-19-di-morotai
+2020-03-20_an_0313,2020-03-20,Satgas Pangan: Pembatasan pembelian bahan pokok agar semua kebagian,Antara,https://www.antaranews.com/berita/1369646/satgas-pangan-pembatasan-pembelian-bahan-pokok-agar-semua-kebagian
+2020-03-20_an_0314,2020-03-20,Dinkes Sumut lakukan penyelidikan epidemiologi pasien positif COVID-19,Antara,https://www.antaranews.com/berita/1369642/dinkes-sumut-lakukan-penyelidikan-epidemiologi-pasien-positif-covid-19
+2020-03-20_an_0315,2020-03-20,Kapolda Metro sidak Pasar Palmerah pastikan stok pangan cukup,Antara,https://www.antaranews.com/berita/1369638/kapolda-metro-sidak-pasar-palmerah-pastikan-stok-pangan-cukup
+2020-03-20_an_0316,2020-03-20,Umat Katolik jalankan devosi jalan salib di rumah,Antara,https://www.antaranews.com/berita/1369634/umat-katolik-jalankan-devosi-jalan-salib-di-rumah
+2020-03-20_an_0317,2020-03-20,Menteri Belanda mundur karena kelelahan atasi corona,Antara,https://www.antaranews.com/berita/1369630/menteri-belanda-mundur-karena-kelelahan-atasi-corona
+2020-03-20_an_0318,2020-03-20, Disdik tidak perlu mensyaratkan laporan guru tiap hari,Antara,https://www.antaranews.com/berita/1369626/kpai-disdik-tidak-perlu-mensyaratkan-laporan-guru-tiap-hari
+2020-03-20_an_0319,2020-03-20,OJK dukung pemerintah gerakkan sektor riil di tengah wabah Corona,Antara,https://www.antaranews.com/berita/1369622/ojk-dukung-pemerintah-gerakkan-sektor-riil-di-tengah-wabah-corona
+2020-03-20_an_0320,2020-03-20,Tersangka perusak Hutan Lindung Lubuk Besar sudah ditahan,Antara,https://www.antaranews.com/berita/1369618/tersangka-perusak-hutan-lindung-lubuk-besar-sudah-ditahan
+2020-03-20_an_0321,2020-03-20,Pemprov DKI rumuskan subsidi untuk warga Jakarta,Antara,https://www.antaranews.com/berita/1371082/pemprov-dki-rumuskan-subsidi-untuk-warga-jakarta
+2020-03-20_an_0322,2020-03-20, Jatim Darurat Bencana COVID-19,Antara,https://www.antaranews.com/video/1371030/gubernur-jatim-darurat-bencana-covid-19
+2020-03-20_an_0323,2020-03-20,Salam matahari bantu redam kesedihan akibat virus corona di Paris,Antara,https://www.antaranews.com/berita/1371078/salam-matahari-bantu-redam-kesedihan-akibat-virus-corona-di-paris
+2020-03-20_an_0324,2020-03-20,Bima Arya ditangani tim medis dalam tiga shift,Antara,https://www.antaranews.com/berita/1371074/bima-arya-ditangani-tim-medis-dalam-tiga-shift
+2020-03-20_an_0325,2020-03-20,Polda Kalteng kirim 100 personel BKO ke Papua,Antara,https://www.antaranews.com/berita/1371070/polda-kalteng-kirim-100-personel-bko-ke-papua
+2020-03-20_an_0326,2020-03-20,Tes massal COVID-19 sasar sejumlah wilayah rawan di Jaksel,Antara,https://www.antaranews.com/berita/1371066/tes-massal-covid-19-sasar-sejumlah-wilayah-rawan-di-jaksel
+2020-03-20_an_0327,2020-03-20,"Evakuasi pasien virus corona dari Corsica, Prancis kirim kapal perang",Antara,https://www.antaranews.com/berita/1371062/evakuasi-pasien-virus-corona-dari-corsica-prancis-kirim-kapal-perang
+2020-03-20_an_0328,2020-03-20,Perum Bulog-SGC gerakkan stabilisasi pangan hadapi COVID-19,Antara,https://www.antaranews.com/berita/1371058/perum-bulog-sgc-gerakkan-stabilisasi-pangan-hadapi-covid-19
+2020-03-20_an_0329,2020-03-20,Halep ajak penggemar tenis bantu perangi wabah COVID-19,Antara,https://www.antaranews.com/berita/1371054/halep-ajak-penggemar-tenis-bantu-perangi-wabah-covid-19
+2020-03-20_an_0330,2020-03-20,Dinkes-RSUD siapkan pemantauan Covid-19 bagi pegawai Dishub Mataram,Antara,https://www.antaranews.com/berita/1371050/dinkes-rsud-siapkan-pemantauan-covid-19-bagi-pegawai-dishub-mataram
+2020-03-20_an_0331,2020-03-20,Masjid Raya Baiturrahman disemprotkan disinfektan,Antara,https://www.antaranews.com/foto/1369610/masjid-raya-baiturrahman-disemprotkan-disinfektan
+2020-03-20_an_0332,2020-03-20,Pemerintah tutup 56 kawasan konservasi untuk cegah penyebaran COVID-19,Antara,https://www.antaranews.com/berita/1369570/pemerintah-tutup-56-kawasan-konservasi-untuk-cegah-penyebaran-covid-19
+2020-03-20_an_0333,2020-03-20,Satgas COVID-19: Tiga warga Kepulauan Sangihe-Sulut masuk ODP,Antara,https://www.antaranews.com/berita/1369606/satgas-covid-19-tiga-warga-kepulauan-sangihe-sulut-masuk-odp
+2020-03-20_an_0334,2020-03-20,Penutupan sementara kantor layanan publik di Bogor,Antara,https://www.antaranews.com/foto/1369602/penutupan-sementara-kantor-layanan-publik-di-bogor
+2020-03-20_an_0335,2020-03-20,PDIP gerakkan kadernya lakukan penyemprotan tempat ibadah di Surabaya,Antara,https://www.antaranews.com/berita/1369598/pdip-gerakkan-kadernya-lakukan-penyemprotan-tempat-ibadah-di-surabaya
+2020-03-20_an_0336,2020-03-20,Gubernur Jatim tetapkan status darurat bencana COVID-19,Antara,https://www.antaranews.com/berita/1369590/gubernur-jatim-tetapkan-status-darurat-bencana-covid-19
+2020-03-20_an_0337,2020-03-20,"Bantu masa darurat, ACT adakan Program Operasi Pangan Gratis",Antara,https://www.antaranews.com/berita/1369586/bantu-masa-darurat-act-adakan-program-operasi-pangan-gratis
+2020-03-20_an_0338,2020-03-20,"Thailand laporkan 50 kasus baru, total kasus corona capai 322",Antara,https://www.antaranews.com/berita/1369582/thailand-laporkan-50-kasus-baru-total-kasus-corona-capai-322
+2020-03-20_an_0339,2020-03-20,Pasien balita di RSUP Dr Sardjito dinyatakan sembuh dari COVID-19,Antara,https://www.antaranews.com/berita/1369578/pasien-balita-di-rsup-dr-sardjito-dinyatakan-sembuh-dari-covid-19
+2020-03-20_an_0340,2020-03-20,Kasatgas Pangan Polri jelaskan pembatasan pembelian sembako,Antara,https://www.antaranews.com/berita/1369574/kasatgas-pangan-polri-jelaskan-pembatasan-pembelian-sembako
+2020-03-20_an_0341,2020-03-20,Obor Olimpiade tiba di Jepang dari Yunani,Antara,https://www.antaranews.com/berita/1369566/obor-olimpiade-tiba-di-jepang-dari-yunani
+2020-03-20_an_0342,2020-03-20,Pemkab Lampung Timur segera lakukan disinfeksi untuk cegah COVID-19,Antara,https://www.antaranews.com/berita/1369526/pemkab-lampung-timur-segera-lakukan-disinfeksi-untuk-cegah-covid-19
+2020-03-20_an_0343,2020-03-20,"Ketika manisnya profit kedai kopi, tak sebanding bahaya COVID-19",Antara,https://www.antaranews.com/berita/1369562/ketika-manisnya-profit-kedai-kopi-tak-sebanding-bahaya-covid-19
+2020-03-20_an_0344,2020-03-20,IPB identifikasi rekan yang kontak dengan mahasiswa positif COVID-19,Antara,https://www.antaranews.com/berita/1369554/ipb-identifikasi-rekan-yang-kontak-dengan-mahasiswa-positif-covid-19
+2020-03-20_an_0345,2020-03-20,Menko Airlangga: Kartu Pra-Kerja solusi masyarakat terdampak COVID-19,Antara,https://www.antaranews.com/berita/1369550/menko-airlangga-kartu-pra-kerja-solusi-masyarakat-terdampak-covid-19
+2020-03-20_an_0346,2020-03-20,"Dipercaya cegah Covid-19, penjualan jambu merah meningkat",Antara,https://www.antaranews.com/video/1369494/dipercaya-cegah-covid-19-penjualan-jambu-merah-meningkat
+2020-03-20_an_0347,2020-03-20,Jack Ma Foundation dan Alibaba Foundation umumkan donasi untuk empat negara Asia Tenggara,Antara,https://www.antaranews.com/berita/1369546/jack-ma-foundation-dan-alibaba-foundation-umumkan-donasi-untuk-empat-negara-asia-tenggara
+2020-03-20_an_0348,2020-03-20,Komunitas Singapura di Batam sumbang APD COVID-19,Antara,https://www.antaranews.com/berita/1369542/komunitas-singapura-di-batam-sumbang-apd-covid-19
+2020-03-20_an_0349,2020-03-20,"Doakan tenaga medis tetap sehat,  RSPI ""banjir"" kiriman bunga",Antara,https://www.antaranews.com/berita/1369538/doakan-tenaga-medis-tetap-sehat-rspi-banjir-kiriman-bunga
+2020-03-20_an_0350,2020-03-20,California instruksikan 40 juta penduduknya berada di rumah,Antara,https://www.antaranews.com/berita/1369534/california-instruksikan-40-juta-penduduknya-berada-di-rumah
+2020-03-20_an_0351,2020-03-20,"Cegah COVID-19,  masjid dan candi di Sleman-DIY disemprot disinfektan",Antara,https://www.antaranews.com/berita/1369522/cegah-covid-19-masjid-dan-candi-di-sleman-diy-disemprot-disinfektan
+2020-03-20_an_0352,2020-03-20,Lapas Rajabasa tidak terima kunjungan keluarga untuk cegah COVID-19,Antara,https://www.antaranews.com/berita/1369486/lapas-rajabasa-tidak-terima-kunjungan-keluarga-untuk-cegah-covid-19
+2020-03-20_an_0353,2020-03-20,BPJAMSOSTEK layani klaim tanpa kontak fisik cegah penularan COVID-19,Antara,https://www.antaranews.com/berita/1369518/bpjamsostek-layani-klaim-tanpa-kontak-fisik-cegah-penularan-covid-19
+2020-03-20_an_0354,2020-03-20,Uang pun dikarantina sebelum diedarkan kembali ke masyarakat,Antara,https://www.antaranews.com/berita/1369514/uang-pun-dikarantina-sebelum-diedarkan-kembali-ke-masyarakat
+2020-03-20_an_0355,2020-03-20,Polda NTB temukan 9 informasi hoaks COVID-19 di media sosial,Antara,https://www.antaranews.com/berita/1369510/polda-ntb-temukan-9-informasi-hoaks-covid-19-di-media-sosial
+2020-03-20_an_0356,2020-03-20,BI Sultra karantina uang sebelum diedarkan,Antara,https://www.antaranews.com/video/1369466/bi-sultra-karantina-uang-sebelum-diedarkan
+2020-03-20_an_0357,2020-03-20,Cairan pembersih tangan produksi mahasiswa Universitas Brawijaya laris,Antara,https://www.antaranews.com/berita/1369506/cairan-pembersih-tangan-produksi-mahasiswa-universitas-brawijaya-laris
+2020-03-20_an_0358,2020-03-20,"Meski ada imbauan MUI, sejumlah masjid tetap selenggarakan jumatan",Antara,https://www.antaranews.com/berita/1369502/meski-ada-imbauan-mui-sejumlah-masjid-tetap-selenggarakan-jumatan
+2020-03-20_an_0359,2020-03-20,Forkopimda Aceh keluarkan 14 poin seruan bersama cegah virus corona,Antara,https://www.antaranews.com/berita/1369498/forkopimda-aceh-keluarkan-14-poin-seruan-bersama-cegah-virus-corona
+2020-03-20_an_0360,2020-03-20,PDI Perjuangan: Wali Kota Surabaya cekatan hadapi COVID-19,Antara,https://www.antaranews.com/berita/1369490/pdi-perjuangan-wali-kota-surabaya-cekatan-hadapi-covid-19
+2020-03-20_an_0361,2020-03-20,Klub-klub Brasil tawarkan stadionnya untuk rawat pasien corona,Antara,https://www.antaranews.com/berita/1369482/klub-klub-brasil-tawarkan-stadionnya-untuk-rawat-pasien-corona
+2020-03-20_an_0362,2020-03-20,VW hentikan produksinya akibat merebaknya wabah COVID-19,Antara,https://www.antaranews.com/foto/1369446/vw-hentikan-produksinya-akibat-merebaknya-wabah-covid-19
+2020-03-20_an_0363,2020-03-20,Objek wisata di Lembang tutup sementara,Antara,https://www.antaranews.com/video/1369402/objek-wisata-di-lembang-tutup-sementara
+2020-03-20_an_0364,2020-03-20,Legislator minta pemerintah atasi kelangkaan masker di NTT,Antara,https://www.antaranews.com/berita/1369478/legislator-minta-pemerintah-atasi-kelangkaan-masker-di-ntt
+2020-03-20_an_0365,2020-03-20,Pemerintah Surabaya bagikan penyemprot disinfektan ke kelurahan,Antara,https://www.antaranews.com/berita/1369474/pemerintah-surabaya-bagikan-penyemprot-disinfektan-ke-kelurahan
+2020-03-20_an_0366,2020-03-20,KPK panggil tujuh saksi kasus korupsi proyek jalan di Bengkalis,Antara,https://www.antaranews.com/berita/1369470/kpk-panggil-tujuh-saksi-kasus-korupsi-proyek-jalan-di-bengkalis
+2020-03-20_an_0367,2020-03-20,Perenang desak AS lobi penundaan Olimpiade,Antara,https://www.antaranews.com/berita/1369462/perenang-desak-as-lobi-penundaan-olimpiade
+2020-03-20_an_0368,2020-03-20,"KPK catat tingkat kepatuhan LHKPN nasional 71,47 persen",Antara,https://www.antaranews.com/berita/1369458/kpk-catat-tingkat-kepatuhan-lhkpn-nasional-7147-persen
+2020-03-20_an_0369,2020-03-20,Tiga PDP dan 22 ODP ditangani RSUD Chasan Boesoerie Maluku Utara,Antara,https://www.antaranews.com/berita/1369454/tiga-pdp-dan-22-odp-ditangani-rsud-chasan-boesoerie-maluku-utara
+2020-03-20_an_0370,2020-03-20,210 orang positif COVID-19 berada di Jakarta,Antara,https://www.antaranews.com/berita/1369450/210-orang-positif-covid-19-berada-di-jakarta
+2020-03-20_an_0371,2020-03-20,10 serial Netflix untuk mengisi masa #dirumahaja,Antara,https://www.antaranews.com/berita/1369442/10-serial-netflix-untuk-mengisi-masa-dirumahaja
+2020-03-20_an_0372,2020-03-20,"MUI anjurkan shalat di rumah, ini penjelasan lengkapnya",Antara,https://www.antaranews.com/video/1369358/mui-anjurkan-shalat-di-rumah-ini-penjelasan-lengkapnya
+2020-03-20_an_0373,2020-03-20,BEI relaksasi pemenuhan kewajiban bagi perusahaan tercatat,Antara,https://www.antaranews.com/berita/1369438/bei-relaksasi-pemenuhan-kewajiban-bagi-perusahaan-tercatat
+2020-03-20_an_0374,2020-03-20,Belajar di rumah harus menyenangkan bukan membebani,Antara,https://www.antaranews.com/berita/1369434/belajar-di-rumah-harus-menyenangkan-bukan-membebani
+2020-03-20_an_0375,2020-03-20,Musi Banyuasin gandeng IPB kembangkan Sekolah Peternakan Rakyat,Antara,https://www.antaranews.com/berita/1369430/musi-banyuasin-gandeng-ipb-kembangkan-sekolah-peternakan-rakyat
+2020-03-20_an_0376,2020-03-20,"Cegah COVID-19, siswa SMA-SMK dan SLB di Kaltara diliburkan",Antara,https://www.antaranews.com/berita/1369422/cegah-covid-19-siswa-sma-smk-dan-slb-di-kaltara-diliburkan
+2020-03-20_an_0377,2020-03-20,Tekfin Asetku mitigasi risiko bisnis respon dampak COVID-19,Antara,https://www.antaranews.com/berita/1369418/tekfin-asetku-mitigasi-risiko-bisnis-respon-dampak-covid-19
+2020-03-20_an_0378,2020-03-20,Blibli batasi jumlah pembelian hand sanitizer,Antara,https://www.antaranews.com/berita/1369414/blibli-batasi-jumlah-pembelian-hand-sanitizer
+2020-03-20_an_0379,2020-03-20,Marcus Smart akui positif virus corona,Antara,https://www.antaranews.com/berita/1369410/marcus-smart-akui-positif-virus-corona
+2020-03-20_an_0380,2020-03-20,"Khamenei sebut sanksi AS memaksa Iran menjadi ""mandiri""",Antara,https://www.antaranews.com/berita/1369406/khamenei-sebut-sanksi-as-memaksa-iran-menjadi-mandiri
+2020-03-20_an_0381,2020-03-20,"20.000 militer Inggris siaga, Ratu Elizabeth mulai cemas karena corona",Antara,https://www.antaranews.com/berita/1369398/20000-militer-inggris-siaga-ratu-elizabeth-mulai-cemas-karena-corona
+2020-03-20_an_0382,2020-03-20,Sektor UMKM berpeluang ciptakan 2 juta agropreneur baru,Antara,https://www.antaranews.com/berita/1369362/sektor-umkm-berpeluang-ciptakan-2-juta-agropreneur-baru
+2020-03-20_an_0383,2020-03-20,Indonesia AIDS Coalition: 140 ribu ODHA terancam tak dapat ARV,Antara,https://www.antaranews.com/berita/1369394/indonesia-aids-coalition-140-ribu-odha-terancam-tak-dapat-arv
+2020-03-20_an_0384,2020-03-20,"Elisa Manueke meninggal, atlet paralayang Hening merasa kehilangan",Antara,https://www.antaranews.com/berita/1369390/elisa-manueke-meninggal-atlet-paralayang-hening-merasa-kehilangan
+2020-03-20_an_0385,2020-03-20,Pengelola LRT Sumatera Selatan terapkan 'social distancing',Antara,https://www.antaranews.com/berita/1369386/pengelola-lrt-sumatera-selatan-terapkan-social-distancing
+2020-03-20_an_0386,2020-03-20,"Pandemi COVID-19 momentum perkuat industri farmasi, sebut LSM",Antara,https://www.antaranews.com/berita/1369382/pandemi-covid-19-momentum-perkuat-industri-farmasi-sebut-lsm
+2020-03-20_an_0387,2020-03-20,Bahlil Lahadalia negatif COVID-19,Antara,https://www.antaranews.com/berita/1369378/bahlil-lahadalia-negatif-covid-19
+2020-03-20_an_0388,2020-03-20,Vanessa Angel dapat narkoba dari penasehat hukumnya,Antara,https://www.antaranews.com/berita/1369374/vanessa-angel-dapat-narkoba-dari-penasehat-hukumnya
+2020-03-20_an_0389,2020-03-20,Startup Chilibeli raih pendanaan 10 juta dollar AS,Antara,https://www.antaranews.com/berita/1369370/startup-chilibeli-raih-pendanaan-10-juta-dollar-as
+2020-03-20_an_0390,2020-03-20,Washington laporkan kenaikan jumlah kematian COVID-19 jadi 74,Antara,https://www.antaranews.com/berita/1369366/washington-laporkan-kenaikan-jumlah-kematian-covid-19-jadi-74
+2020-03-20_an_0391,2020-03-20,Stafsus Presiden perkenalkan 24 start-up Papua ke 100 investor global,Antara,https://www.antaranews.com/berita/1369354/stafsus-presiden-perkenalkan-24-start-up-papua-ke-100-investor-global
+2020-03-20_an_0392,2020-03-20,Ekspor kerajinan Bantul menurun imbas COVID-19,Antara,https://www.antaranews.com/berita/1369322/ekspor-kerajinan-bantul-menurun-imbas-covid-19
+2020-03-20_an_0393,2020-03-20,Bunga bangkai kembali mekar di Kebun Raya Cibodas,Antara,https://www.antaranews.com/berita/1369350/bunga-bangkai-kembali-mekar-di-kebun-raya-cibodas
+2020-03-20_an_0394,2020-03-20,LTMPT belum putuskan penundaan jadwal UTBK,Antara,https://www.antaranews.com/berita/1369346/ltmpt-belum-putuskan-penundaan-jadwal-utbk
+2020-03-20_an_0395,2020-03-20,Pemkab Pekalongan bangun UMKM Center,Antara,https://www.antaranews.com/video/1369342/pemkab-pekalongan-bangun-umkm-center
+2020-03-20_an_0396,2020-03-20,Ekonom Indef dorong percepatan stimulus kesehatan,Antara,https://www.antaranews.com/berita/1369338/ekonom-indef-dorong-percepatan-stimulus-kesehatan
+2020-03-20_an_0397,2020-03-20,Antisipasi penyebaran wabah COVID-19 di Lapas Cipinang,Antara,https://www.antaranews.com/foto/1369334/antisipasi-penyebaran-wabah-covid-19-di-lapas-cipinang
+2020-03-20_an_0398,2020-03-20,IPC Pangkalbalam akan menambah panjang dermaga Pelabuhan Belinyu,Antara,https://www.antaranews.com/berita/1369330/ipc-pangkalbalam-akan-menambah-panjang-dermaga-pelabuhan-belinyu
+2020-03-20_an_0399,2020-03-20,Samsung luncurkan Galaxy M31 versi terbaru,Antara,https://www.antaranews.com/berita/1369326/samsung-luncurkan-galaxy-m31-versi-terbaru
+2020-03-20_an_0400,2020-03-20,PMI tambah gudang logistik hadapi COVID-19,Antara,https://www.antaranews.com/video/1369270/pmi-tambah-gudang-logistik-hadapi-covid-19
+2020-03-20_an_0401,2020-03-20,2.753 desa di Sumatera Selatan belum terima pencairan dana desa,Antara,https://www.antaranews.com/berita/1369318/2753-desa-di-sumatera-selatan-belum-terima-pencairan-dana-desa
+2020-03-20_an_0402,2020-03-20,Dokter di AS buat masker sendiri karena barang langka,Antara,https://www.antaranews.com/berita/1369282/dokter-di-as-buat-masker-sendiri-karena-barang-langka
+2020-03-20_an_0403,2020-03-20,Masjid Istiqlal tiadakan Jumatan selama dua pekan,Antara,https://www.antaranews.com/video/1369198/masjid-istiqlal-tiadakan-jumatan-selama-dua-pekan
+2020-03-20_an_0404,2020-03-20,Ponsel pintar Infinix Hot 9 segera dirilis,Antara,https://www.antaranews.com/berita/1369310/ponsel-pintar-infinix-hot-9-segera-dirilis
+2020-03-20_an_0405,2020-03-20,Masjid Gedhe Kauman Yogyakarta tetap gelar Shalat Jumat,Antara,https://www.antaranews.com/berita/1369306/masjid-gedhe-kauman-yogyakarta-tetap-gelar-shalat-jumat
+2020-03-20_an_0406,2020-03-20,Fiji nun jauh di Pasifik pun hentikan semua kompetisi,Antara,https://www.antaranews.com/berita/1369302/fiji-nun-jauh-di-pasifik-pun-hentikan-semua-kompetisi
+2020-03-20_an_0407,2020-03-20,Tiga warga Sultra positif COVID-19,Antara,https://www.antaranews.com/video/1369298/tiga-warga-sultra-positif-covid-19
+2020-03-20_an_0408,2020-03-20,"Brazil larang masuk warga asing, kecuali Amerika, karena wabah corona",Antara,https://www.antaranews.com/berita/1369294/brazil-larang-masuk-warga-asing-kecuali-amerika-karena-wabah-corona
+2020-03-20_an_0409,2020-03-20, Pembatasan pembelian bahan pokok dinilai malah dorong beli panik,Antara,https://www.antaranews.com/berita/1369290/cips-pembatasan-pembelian-bahan-pokok-dinilai-malah-dorong-beli-panik
+2020-03-20_an_0410,2020-03-20,Radisys luncurkan penggunaan Engage Video Assistant - bot video yang didukung AI pertama di dunia,Antara,https://www.antaranews.com/berita/1369286/radisys-luncurkan-penggunaan-engage-video-assistant-bot-video-yang-didukung-ai-pertama-di-dunia
+2020-03-20_an_0411,2020-03-20,Hidayat Nur Wahid minta pemerintah maksimalkan APBN tangani COVID-19,Antara,https://www.antaranews.com/berita/1369278/hidayat-nur-wahid-minta-pemerintah-maksimalkan-apbn-tangani-covid-19
+2020-03-20_an_0412,2020-03-20,Api untuk Obor Olimpiade Tokyo 2020 tiba di Jepang,Antara,https://www.antaranews.com/foto/1369238/api-untuk-obor-olimpiade-tokyo-2020-tiba-di-jepang
+2020-03-20_an_0413,2020-03-20,Jovic minta maaf abaikan instruksi isolasi di Serbia,Antara,https://www.antaranews.com/berita/1369274/jovic-minta-maaf-abaikan-instruksi-isolasi-di-serbia
+2020-03-20_an_0414,2020-03-20,"Cegah COVID-19, petugas semprot disinfektan empat TPU  Jakarta Pusat",Antara,https://www.antaranews.com/berita/1369266/cegah-covid-19-petugas-semprot-disinfektan-empat-tpu-jakarta-pusat
+2020-03-20_an_0415,2020-03-20,"Rupiah Jumat siang merosot, tembus di atas Rp16.000 per dolar",Antara,https://www.antaranews.com/berita/1369262/rupiah-jumat-siang-merosot-tembus-di-atas-rp16000-per-dolar
+2020-03-20_an_0416,2020-03-20,"Arimura Kasumi jadi kejutan di ""Rurouni Kenshin: The Final/Beginning""",Antara,https://www.antaranews.com/berita/1369258/arimura-kasumi-jadi-kejutan-di-rurouni-kenshin-the-final-beginning
+2020-03-20_an_0417,2020-03-20,"Korsel, China, Jepang bahas kerja sama terkait pandemi virus corona",Antara,https://www.antaranews.com/berita/1369254/korsel-china-jepang-bahas-kerja-sama-terkait-pandemi-virus-corona
+2020-03-20_an_0418,2020-03-20,"Presiden : Pangkas belanja tidak penting, alokasikan tangani COVID-19",Antara,https://www.antaranews.com/berita/1369250/presiden-pangkas-belanja-tidak-penting-alokasikan-tangani-covid-19
+2020-03-20_an_0419,2020-03-20,Masjid Al Ukhuwwah Bandung sementara tidak gelar Shalat Jumat,Antara,https://www.antaranews.com/berita/1369246/masjid-al-ukhuwwah-bandung-sementara-tidak-gelar-shalat-jumat
+2020-03-20_an_0420,2020-03-20,Akses transportasi umum ke Kepulauan Seribu ditutup sementara,Antara,https://www.antaranews.com/berita/1369242/akses-transportasi-umum-ke-kepulauan-seribu-ditutup-sementara
+2020-03-20_an_0421,2020-03-20,Presiden Jokowi minta UMKM dapat insentif cegah PHK dampak COVID-19,Antara,https://www.antaranews.com/berita/1369234/presiden-jokowi-minta-umkm-dapat-insentif-cegah-phk-dampak-covid-19
+2020-03-20_an_0422,2020-03-20,"Bartender asal Rusia ciptakan minuman ""Coronavirus""",Antara,https://www.antaranews.com/berita/1369194/bartender-asal-rusia-ciptakan-minuman-coronavirus
+2020-03-20_an_0423,2020-03-20, PMI siap semprot disinfektan seluruh penjara di Indonesia,Antara,https://www.antaranews.com/berita/1369230/jk-pmi-siap-semprot-disinfektan-seluruh-penjara-di-indonesia
+2020-03-20_an_0424,2020-03-20,Zenius buka kelas online gratis Live Teaching,Antara,https://www.antaranews.com/berita/1369226/zenius-buka-kelas-online-gratis-live-teaching
+2020-03-20_an_0425,2020-03-20,Pemerintah resmi luncurkan Kartu Pra-Kerja,Antara,https://www.antaranews.com/berita/1369222/pemerintah-resmi-luncurkan-kartu-pra-kerja
+2020-03-20_an_0426,2020-03-20,Garuda pastikan tetap layani penerbangan Australia dan Belanda,Antara,https://www.antaranews.com/berita/1369218/garuda-pastikan-tetap-layani-penerbangan-australia-dan-belanda
+2020-03-20_an_0427,2020-03-20,Pasukan Garda Nasional AS dapat diaktifkan bantu tangani wabah corona,Antara,https://www.antaranews.com/berita/1369214/pasukan-garda-nasional-as-dapat-diaktifkan-bantu-tangani-wabah-corona
+2020-03-20_an_0428,2020-03-20,"Siaga COVID-19,tenaga medis Buleleng diberi tunjangan jasa pelayanan",Antara,https://www.antaranews.com/berita/1369210/siaga-covid-19tenaga-medis-buleleng-diberi-tunjangan-jasa-pelayanan
+2020-03-20_an_0429,2020-03-20,"Prancis, Inggris laporkan lonjakan kematian akibat COVID-19",Antara,https://www.antaranews.com/berita/1369206/prancis-inggris-laporkan-lonjakan-kematian-akibat-covid-19
+2020-03-20_an_0430,2020-03-20,Kemlu koreksi jumlah WNI positif COVID-19 di Malaysia,Antara,https://www.antaranews.com/berita/1369202/kemlu-koreksi-jumlah-wni-positif-covid-19-di-malaysia
+2020-03-20_an_0431,2020-03-20,"DPRD Penajam setuju sediakan Rp5,9 miliar hadapi COVID-19",Antara,https://www.antaranews.com/berita/1371046/dprd-penajam-setuju-sediakan-rp59-miliar-hadapi-covid-19
+2020-03-20_an_0432,2020-03-20,Pasien positif COVID-19 di RSKD Balikpapan bertambah 5 orang,Antara,https://www.antaranews.com/berita/1371014/pasien-positif-covid-19-di-rskd-balikpapan-bertambah-5-orang
+2020-03-20_an_0433,2020-03-20,"Krisis COVID-19, PBB ingatkan negara lindungi masyarakat miskin, UMKM",Antara,https://www.antaranews.com/berita/1371042/krisis-covid-19-pbb-ingatkan-negara-lindungi-masyarakat-miskin-umkm
+2020-03-20_an_0434,2020-03-20,Peserta Ijtima Asia meninggal dunia bukan akibat COVID-19,Antara,https://www.antaranews.com/berita/1371038/peserta-ijtima-asia-meninggal-dunia-bukan-akibat-covid-19
+2020-03-20_an_0435,2020-03-20,Sejumlah tim F1 bantu produksi alat kesehatan untuk perangi COVID-19,Antara,https://www.antaranews.com/berita/1371034/sejumlah-tim-f1-bantu-produksi-alat-kesehatan-untuk-perangi-covid-19
+2020-03-20_an_0436,2020-03-20,Pemerintah Ceko berikan kompensasi untuk perusahaan terdampak COVID-19,Antara,https://www.antaranews.com/berita/1371026/pemerintah-ceko-berikan-kompensasi-untuk-perusahaan-terdampak-covid-19
+2020-03-20_an_0437,2020-03-20,Kebijakan Pemkot Surabaya gratiskan tes swab COVID-19 dinilai telat,Antara,https://www.antaranews.com/berita/1371022/kebijakan-pemkot-surabaya-gratiskan-tes-swab-covid-19-dinilai-telat
+2020-03-20_an_0438,2020-03-20,Pemkab Belu diimbau tempatkan petugas kesehatan di pos lintas batas,Antara,https://www.antaranews.com/berita/1371018/pemkab-belu-diimbau-tempatkan-petugas-kesehatan-di-pos-lintas-batas
+2020-03-20_an_0439,2020-03-20,Empat tower Wisma Atlet Kemayoran jadi RS Darurat COVID-19,Antara,https://www.antaranews.com/video/1370950/empat-tower-wisma-atlet-kemayoran-jadi-rs-darurat-covid-19
+2020-03-20_an_0440,2020-03-20,Pemprov DKI Jakarta tutup sementara 17 jenis tempat hiburan,Antara,https://www.antaranews.com/video/1370994/pemprov-dki-jakarta-tutup-sementara-17-jenis-tempat-hiburan
+2020-03-20_an_0441,2020-03-20,Presiden perintahkan restrukturisasi kredit UMKM redam dampak COVID-19,Antara,https://www.antaranews.com/berita/1369190/presiden-perintahkan-restrukturisasi-kredit-umkm-redam-dampak-covid-19
+2020-03-20_an_0442,2020-03-20,"Los Angeles minta pertokoan tutup, penduduk tetap di rumah",Antara,https://www.antaranews.com/berita/1369154/los-angeles-minta-pertokoan-tutup-penduduk-tetap-di-rumah
+2020-03-20_an_0443,2020-03-20,Sahroni minta KPK ikut awasi pengadaan rapid test COVID-19,Antara,https://www.antaranews.com/berita/1369186/sahroni-minta-kpk-ikut-awasi-pengadaan-rapid-test-covid-19
+2020-03-20_an_0444,2020-03-20," Penyampaian SPT Tahun Pajak 2019 lebih tinggi, dekati 8 juta",Antara,https://www.antaranews.com/berita/1369182/djp-penyampaian-spt-tahun-pajak-2019-lebih-tinggi-dekati-8-juta
+2020-03-20_an_0445,2020-03-20,Pesan tertulis istri Bima Arya untuk warga Kota Bogor,Antara,https://www.antaranews.com/berita/1369178/pesan-tertulis-istri-bima-arya-untuk-warga-kota-bogor
+2020-03-20_an_0446,2020-03-20,Tim ahli dan peneliti gabungan UI kembangkan peta sebaran COVID-19,Antara,https://www.antaranews.com/berita/1369174/tim-ahli-dan-peneliti-gabungan-ui-kembangkan-peta-sebaran-covid-19
+2020-03-20_an_0447,2020-03-20,"Gundu hingga congklak, antibosan berdiam di rumah",Antara,https://www.antaranews.com/berita/1369170/gundu-hingga-congklak-antibosan-berdiam-di-rumah
+2020-03-20_an_0448,2020-03-20,Presiden minta dukungan seluruh pihak hadapi tantangan ekonomi,Antara,https://www.antaranews.com/berita/1369166/presiden-minta-dukungan-seluruh-pihak-hadapi-tantangan-ekonomi
+2020-03-20_an_0449,2020-03-20,Yogyakarta intensifkan pembersihan ruang publik,Antara,https://www.antaranews.com/berita/1369162/yogyakarta-intensifkan-pembersihan-ruang-publik
+2020-03-20_an_0450,2020-03-20,Pemerintah luncurkan situs resmi Kartu Prakerja,Antara,https://www.antaranews.com/foto/1369158/pemerintah-luncurkan-situs-resmi-kartu-prakerja
+2020-03-20_an_0451,2020-03-20,Pemain PSMS kurangi intensitas latihan,Antara,https://www.antaranews.com/berita/1369150/pemain-psms-kurangi-intensitas-latihan
+2020-03-20_an_0452,2020-03-20,Seberapa berbahayakah virus corona?,Antara,https://www.antaranews.com/berita/1369118/seberapa-berbahayakah-virus-corona
+2020-03-20_an_0453,2020-03-20,XL dan Indosat beri akses gratis Ruangguru,Antara,https://www.antaranews.com/berita/1369146/xl-dan-indosat-beri-akses-gratis-ruangguru
+2020-03-20_an_0454,2020-03-20,Kogabwilhan I siap bantu tangani pasien COVID-19 di Wisma Atlet,Antara,https://www.antaranews.com/berita/1369142/kogabwilhan-i-siap-bantu-tangani-pasien-covid-19-di-wisma-atlet
+2020-03-20_an_0455,2020-03-20,"Kiat aplikasikan ""make-up"" yang aman di tengah pandemi corona",Antara,https://www.antaranews.com/berita/1369138/kiat-aplikasikan-make-up-yang-aman-di-tengah-pandemi-corona
+2020-03-20_an_0456,2020-03-20,"Wisma Atlet jadi RS Khusus COVID-19, anggota DPR: itu lebih realistis",Antara,https://www.antaranews.com/berita/1369134/wisma-atlet-jadi-rs-khusus-covid-19-anggota-dpr-itu-lebih-realistis
+2020-03-20_an_0457,2020-03-20,"AS alami 10.491 kasus corona, 150 meninggal",Antara,https://www.antaranews.com/berita/1369130/as-alami-10491-kasus-corona-150-meninggal
+2020-03-20_an_0458,2020-03-20,Ferrari dan Fiat bantu buat ventilator untuk pasien corona di Italia,Antara,https://otomotif.antaranews.com/berita/1369126/ferrari-dan-fiat-bantu-buat-ventilator-untuk-pasien-corona-di-italia
+2020-03-20_an_0459,2020-03-20,Bima Arya buka suara usai dinyatakan positif COVID-19,Antara,https://www.antaranews.com/video/1369082/bima-arya-buka-suara-usai-dinyatakan-positif-covid-19
+2020-03-20_an_0460,2020-03-20,Presiden Jokowi perintahkan realokasi APBN dan APBD atasi COVID-19,Antara,https://www.antaranews.com/berita/1369122/presiden-jokowi-perintahkan-realokasi-apbn-dan-apbd-atasi-covid-19
+2020-03-20_an_0461,2020-03-20,"Jaga usaha di tengah COVID-19, Bank Mandiri relaksasi kredit bagi UMKM",Antara,https://www.antaranews.com/berita/1369114/jaga-usaha-di-tengah-covid-19-bank-mandiri-relaksasi-kredit-bagi-umkm
+2020-03-20_an_0462,2020-03-20,Anggota DPR apresiasi langkah hentikan penempatan Pekerja Migran,Antara,https://www.antaranews.com/berita/1369074/anggota-dpr-apresiasi-langkah-hentikan-penempatan-pekerja-migran
+2020-03-20_an_0463,2020-03-20,Masjid Istiqlal tidak menggelar ibadah Shalat Jumat hingga dua pekan ke depan,Antara,https://www.antaranews.com/foto/1369110/masjid-istiqlal-tidak-menggelar-ibadah-shalat-jumat-hingga-dua-pekan-ke-depan
+2020-03-20_an_0464,2020-03-20,KPK perpanjang masa pelaporan harta kekayaan periodik,Antara,https://www.antaranews.com/berita/1369106/kpk-perpanjang-masa-pelaporan-harta-kekayaan-periodik
+2020-03-20_an_0465,2020-03-20,Pemerintah Kota Depok sementara larang kegiatan keagamaan berjamaah,Antara,https://www.antaranews.com/berita/1369102/pemerintah-kota-depok-sementara-larang-kegiatan-keagamaan-berjamaah
+2020-03-20_an_0466,2020-03-20,Haiti umumkan status darurat COVID-19 setelah laporkan kasus pertama,Antara,https://www.antaranews.com/berita/1369098/haiti-umumkan-status-darurat-covid-19-setelah-laporkan-kasus-pertama
+2020-03-20_an_0467,2020-03-20," Intensifkan penyaluran KUR, eksekusi sebanyak-banyaknya",Antara,https://www.antaranews.com/berita/1369094/presiden-intensifkan-penyaluran-kur-eksekusi-sebanyak-banyaknya
+2020-03-20_an_0468,2020-03-20,Presiden minta dana desa untuk tangani dampak COVID-19,Antara,https://www.antaranews.com/berita/1369090/presiden-minta-dana-desa-untuk-tangani-dampak-covid-19
+2020-03-20_an_0469,2020-03-20,Polres gandeng RSUD Mamberamo Tengah sosialisasi pencegahan corona,Antara,https://www.antaranews.com/berita/1369086/polres-gandeng-rsud-mamberamo-tengah-sosialisasi-pencegahan-corona
+2020-03-20_an_0470,2020-03-20,Chelsea Olivia dan Glenn Alinskie lakukan ini saat isolasi mandiri,Antara,https://www.antaranews.com/berita/1369078/chelsea-olivia-dan-glenn-alinskie-lakukan-ini-saat-isolasi-mandiri
+2020-03-20_an_0471,2020-03-20,"Untuk hari kedua, China laporkan nol kasus lokal COVID-19",Antara,https://www.antaranews.com/berita/1369070/untuk-hari-kedua-china-laporkan-nol-kasus-lokal-covid-19
+2020-03-20_an_0472,2020-03-20,"Rupiah terus tertekan dekati Rp16.000, pasar panik meluasnya Corona",Antara,https://www.antaranews.com/berita/1369038/rupiah-terus-tertekan-dekati-rp16000-pasar-panik-meluasnya-corona
+2020-03-20_an_0473,2020-03-20,Menkumham akan tambah laptop untuk panggilan video di lapas,Antara,https://www.antaranews.com/berita/1369066/menkumham-akan-tambah-laptop-untuk-panggilan-video-di-lapas
+2020-03-20_an_0474,2020-03-20,Presiden Jokowi: Saya minta BI terus fokus jaga nilai tukar rupiah,Antara,https://www.antaranews.com/berita/1369062/presiden-jokowi-saya-minta-bi-terus-fokus-jaga-nilai-tukar-rupiah
+2020-03-20_an_0475,2020-03-20,Pasaman Barat tetapkan status tanggap darurat KLB COVID-19,Antara,https://www.antaranews.com/berita/1369058/pasaman-barat-tetapkan-status-tanggap-darurat-klb-covid-19
+2020-03-20_an_0476,2020-03-20,"Menteri BUMN : Dengan di rumah saja, Anda ikut menjaga Indonesia",Antara,https://www.antaranews.com/video/1369026/menteri-bumn-dengan-di-rumah-saja-anda-ikut-menjaga-indonesia
+2020-03-20_an_0477,2020-03-20,Akhirnya polisi Wuhan minta maaf kepada ahli waris pengungkap COVID-19,Antara,https://www.antaranews.com/berita/1369054/akhirnya-polisi-wuhan-minta-maaf-kepada-ahli-waris-pengungkap-covid-19
+2020-03-20_an_0478,2020-03-20,PMI bentuk 2000 lebih tim semprot disinfektan cegah COVID-19,Antara,https://www.antaranews.com/berita/1369050/pmi-bentuk-2000-lebih-tim-semprot-disinfektan-cegah-covid-19
+2020-03-20_an_0479,2020-03-20,Pemerintah bersiap hadapi ancaman perlambatan ekonomi akibat Corona,Antara,https://www.antaranews.com/berita/1369046/pemerintah-bersiap-hadapi-ancaman-perlambatan-ekonomi-akibat-corona
+2020-03-20_an_0480,2020-03-20,Nissan setop produksi sementara di pabrik Inggris dan AS,Antara,https://otomotif.antaranews.com/berita/1369042/nissan-setop-produksi-sementara-di-pabrik-inggris-dan-as
+2020-03-20_an_0481,2020-03-20,Giliran label mewah Capri dan Valentino tutup toko akibat virus corona,Antara,https://www.antaranews.com/berita/1369034/giliran-label-mewah-capri-dan-valentino-tutup-toko-akibat-virus-corona
+2020-03-20_an_0482,2020-03-20,Upacara adat Labuhan Merapi akan digelar tanpa acara hiburan,Antara,https://www.antaranews.com/berita/1368990/upacara-adat-labuhan-merapi-akan-digelar-tanpa-acara-hiburan
+2020-03-20_an_0483,2020-03-20,Pejabat Polda tatap muka dengan pemangku kepentingan terkait corona,Antara,https://www.antaranews.com/berita/1369030/pejabat-polda-tatap-muka-dengan-pemangku-kepentingan-terkait-corona
+2020-03-20_an_0484,2020-03-20,Jumatan di Masjid Besar Taipei ditiadakan,Antara,https://www.antaranews.com/berita/1369022/jumatan-di-masjid-besar-taipei-ditiadakan
+2020-03-20_an_0485,2020-03-20,GM dan Ford bahas bantuan medis perangi corona bersama pemerintah AS,Antara,https://otomotif.antaranews.com/berita/1369018/gm-dan-ford-bahas-bantuan-medis-perangi-corona-bersama-pemerintah-as
+2020-03-20_an_0486,2020-03-20,Imam Besar: yang tidak Shalat Jumat tingkatkan ibadah di rumah,Antara,https://www.antaranews.com/berita/1369014/imam-besar-yang-tidak-shalat-jumat-tingkatkan-ibadah-di-rumah
+2020-03-20_an_0487,2020-03-20,"KJRI Kuching imbau WNI pulang ke Indonesia hindari ""overstay""",Antara,https://www.antaranews.com/berita/1369006/kjri-kuching-imbau-wni-pulang-ke-indonesia-hindari-overstay
+2020-03-20_an_0488,2020-03-20,Cek fakta: Benarkah Trump luncurkan vaksin pekan depan?,Antara,https://www.antaranews.com/berita/1369002/cek-fakta-benarkah-trump-luncurkan-vaksin-pekan-depan
+2020-03-20_an_0489,2020-03-20,Angka kematian akibat COVID-19 di Italia lewati China,Antara,https://www.antaranews.com/berita/1368998/angka-kematian-akibat-covid-19-di-italia-lewati-china
+2020-03-20_an_0490,2020-03-20,PMI Depok lakukan penyemprotan disinfektan cegah penyebaran COVID-19,Antara,https://www.antaranews.com/berita/1368994/pmi-depok-lakukan-penyemprotan-disinfektan-cegah-penyebaran-covid-19
+2020-03-20_an_0491,2020-03-20,Istiqlal komunikasi dengan sejumlah imam besar soal shalat Jumat,Antara,https://www.antaranews.com/berita/1368986/istiqlal-komunikasi-dengan-sejumlah-imam-besar-soal-shalat-jumat
+2020-03-20_an_0492,2020-03-20,Imam Masjid Istiqlal jelaskan anjuran Nabi soal ibadah di masa bencana,Antara,https://www.antaranews.com/berita/1368954/imam-masjid-istiqlal-jelaskan-anjuran-nabi-soal-ibadah-di-masa-bencana
+2020-03-20_an_0493,2020-03-20,"RSU UMM buka layanan ""Call Center"" COVID-19",Antara,https://www.antaranews.com/berita/1368982/rsu-umm-buka-layanan-call-center-covid-19
+2020-03-20_an_0494,2020-03-20,Hoaks. Tidak ada pasar tradisional di Banyumas ditutup,Antara,https://www.antaranews.com/berita/1368978/hoaks-tidak-ada-pasar-tradisional-di-banyumas-ditutup
+2020-03-20_an_0495,2020-03-20,34 tahun penantian Indonesia akan MRT Jakarta,Antara,https://www.antaranews.com/video/1317778/34-tahun-penantian-indonesia-akan-mrt-jakarta
+2020-03-20_an_0496,2020-03-20,Erick Thohir ganti 2 anggota Dewan Komisaris Pelni,Antara,https://www.antaranews.com/berita/1368974/erick-thohir-ganti-2-anggota-dewan-komisaris-pelni
+2020-03-20_an_0497,2020-03-20, Tahapan Pilkada Surabaya tidak terdampak COVID-19,Antara,https://www.antaranews.com/berita/1368970/kpu-tahapan-pilkada-surabaya-tidak-terdampak-covid-19
+2020-03-20_an_0498,2020-03-20,Seorang pejabat Pemkot Bogor juga dinyatakan positif COVID-19,Antara,https://www.antaranews.com/berita/1368966/seorang-pejabat-pemkot-bogor-juga-dinyatakan-positif-covid-19
+2020-03-20_an_0499,2020-03-20,"PGN targetkan 650 pelanggan industri baru, utamanya di Jawa Timur",Antara,https://www.antaranews.com/berita/1368962/pgn-targetkan-650-pelanggan-industri-baru-utamanya-di-jawa-timur
+2020-03-20_an_0500,2020-03-20,Erick Thohir buka rekrutmen relawan tenaga medis atasi corona,Antara,https://www.antaranews.com/berita/1368958/erick-thohir-buka-rekrutmen-relawan-tenaga-medis-atasi-corona
+2020-03-20_an_0501,2020-03-20, Pemerintah perlu keluarkan aturan merawat jenazah COVID-19,Antara,https://www.antaranews.com/berita/1368950/legislator-pemerintah-perlu-keluarkan-aturan-merawat-jenazah-covid-19
+2020-03-20_an_0502,2020-03-20,Yuk cek layanan SIM Keliling Jumat ini hadir di lima lokasi,Antara,https://www.antaranews.com/berita/1368914/yuk-cek-layanan-sim-keliling-jumat-ini-hadir-di-lima-lokasi
+2020-03-20_an_0503,2020-03-20,"Menkumham apresiasi langkah PMI cegah COVID-19 pada lapas ""overload""",Antara,https://www.antaranews.com/berita/1368946/menkumham-apresiasi-langkah-pmi-cegah-covid-19-pada-lapas-overload
+2020-03-20_an_0504,2020-03-20,"Album Arashi terlaris di dunia 2019, unggul dari Taylor Swift dan BTS",Antara,https://www.antaranews.com/berita/1368942/album-arashi-terlaris-di-dunia-2019-unggul-dari-taylor-swift-dan-bts
+2020-03-20_an_0505,2020-03-20,"IHSG akhir pekan berpotensi terus tertekan, anjlok di bawah 4.000",Antara,https://www.antaranews.com/berita/1368938/ihsg-akhir-pekan-berpotensi-terus-tertekan-anjlok-di-bawah-4000
+2020-03-20_an_0506,2020-03-20,Saham China dibuka lebih tinggi setelah tujuh hari terus melemah,Antara,https://www.antaranews.com/berita/1368934/saham-china-dibuka-lebih-tinggi-setelah-tujuh-hari-terus-melemah
+2020-03-20_an_0507,2020-03-20,Jumat ini Samsat Keliling Jakarta hanya ada di tiga lokasi,Antara,https://www.antaranews.com/berita/1368930/jumat-ini-samsat-keliling-jakarta-hanya-ada-di-tiga-lokasi
+2020-03-20_an_0508,2020-03-20,"Manfaat ""work from home"" untuk pengaturan keuangan",Antara,https://www.antaranews.com/berita/1368926/manfaat-work-from-home-untuk-pengaturan-keuangan
+2020-03-20_an_0509,2020-03-20,Aman dan nyaman naik MRT,Antara,https://www.antaranews.com/infografik/1368922/aman-dan-nyaman-naik-mrt
+2020-03-20_an_0510,2020-03-20,"PLN imbau masyarakat bayar listrik secara ""online,"" hindari Corona",Antara,https://www.antaranews.com/berita/1368918/pln-imbau-masyarakat-bayar-listrik-secara-online-hindari-corona
+2020-03-20_an_0511,2020-03-20,"Setiap 10 menit, satu orang meninggal di Iran karena COVID-19",Antara,https://www.antaranews.com/berita/1368910/setiap-10-menit-satu-orang-meninggal-di-iran-karena-covid-19
+2020-03-20_an_0512,2020-03-20,Gugus Tugas COVID-19: Tingkatkan kedisiplinan soal jaga jarak,Antara,https://www.antaranews.com/berita/1368874/gugus-tugas-covid-19-tingkatkan-kedisiplinan-soal-jaga-jarak
+2020-03-20_an_0513,2020-03-20,Setahun MRT sebagai keajaiban di Jakarta,Antara,https://www.antaranews.com/berita/1368906/setahun-mrt-sebagai-keajaiban-di-jakarta
+2020-03-20_an_0514,2020-03-20,Imam Masjid Istiqlal imbau umat Islam tidak lakukan kegiatan berjamaah,Antara,https://www.antaranews.com/berita/1368902/imam-masjid-istiqlal-imbau-umat-islam-tidak-lakukan-kegiatan-berjamaah
+2020-03-20_an_0515,2020-03-20,"Chatbot WhatsApp COVID-19 sudah aktif, ini nomornya",Antara,https://www.antaranews.com/berita/1368898/chatbot-whatsapp-covid-19-sudah-aktif-ini-nomornya
+2020-03-20_an_0516,2020-03-20,"Harga emas Antam  melonjak Rp10.000, jadi di atas Rp800.000",Antara,https://www.antaranews.com/berita/1368894/harga-emas-antam-melonjak-rp10000-jadi-di-atas-rp800000
+2020-03-20_an_0517,2020-03-20,"MRT, moda transportasi populer sang pemersatu negeri",Antara,https://www.antaranews.com/berita/1368890/mrt-moda-transportasi-populer-sang-pemersatu-negeri
+2020-03-20_an_0518,2020-03-20,Rupiah Jumat pagi jatuh 50 poin,Antara,https://www.antaranews.com/berita/1368886/rupiah-jumat-pagi-jatuh-50-poin
+2020-03-20_an_0519,2020-03-20,"IHSG Jumat pagi dibuka jatuh 49,96 poin",Antara,https://www.antaranews.com/berita/1368882/ihsg-jumat-pagi-dibuka-jatuh-4996-poin
+2020-03-20_an_0520,2020-03-20,"Humaniora kemarin, Jokowi negatif COVID-19 hingga sumber gempa Bali",Antara,https://www.antaranews.com/berita/1368878/humaniora-kemarin-jokowi-negatif-covid-19-hingga-sumber-gempa-bali
+2020-03-20_an_0521,2020-03-20,Imam Besar Istiqlal ungkap alasan tiadakan shalat Jumat,Antara,https://www.antaranews.com/berita/1368870/imam-besar-istiqlal-ungkap-alasan-tiadakan-shalat-jumat
+2020-03-20_an_0522,2020-03-20,Dinkes Riau isolasi enam anggota keluarga pasien positif COVID-19,Antara,https://www.antaranews.com/berita/1368834/dinkes-riau-isolasi-enam-anggota-keluarga-pasien-positif-covid-19
+2020-03-20_an_0523,2020-03-20,"Yuan jatuh 530 basis poin, lanjutkan pelemahan terhadap dolar AS",Antara,https://www.antaranews.com/berita/1368866/yuan-jatuh-530-basis-poin-lanjutkan-pelemahan-terhadap-dolar-as
+2020-03-20_an_0524,2020-03-20,"Cegah corona, vaksinasi rabies di Yogyakarta dihentikan sementara",Antara,https://www.antaranews.com/berita/1368862/cegah-corona-vaksinasi-rabies-di-yogyakarta-dihentikan-sementara
+2020-03-20_an_0525,2020-03-20,"Bursa Saham Hong Kong dibuka melambung 2,02 persen",Antara,https://www.antaranews.com/berita/1368858/bursa-saham-hong-kong-dibuka-melambung-202-persen
+2020-03-20_an_0526,2020-03-20,Polisi Kotim tangkap petani yang diduga cabuli anak tirinya,Antara,https://www.antaranews.com/berita/1368854/polisi-kotim-tangkap-petani-yang-diduga-cabuli-anak-tirinya
+2020-03-20_an_0527,2020-03-20,Pangeran Harry tunda Invictus Games di tengah virus corona,Antara,https://www.antaranews.com/berita/1368850/pangeran-harry-tunda-invictus-games-di-tengah-virus-corona
+2020-03-20_an_0528,2020-03-20,Asisten Manajer dan Media Ofiser Persik ikut mundur,Antara,https://www.antaranews.com/berita/1368846/asisten-manajer-dan-media-ofiser-persik-ikut-mundur
+2020-03-20_an_0529,2020-03-20,SpaceX kirim astronaut NASA ke luar angkasa pada Mei,Antara,https://www.antaranews.com/berita/1368842/spacex-kirim-astronaut-nasa-ke-luar-angkasa-pada-mei
+2020-03-20_an_0530,2020-03-20,Din Syamsudin anjurkan umat ganti shalat Jumat dengan Dzuhur di rumah,Antara,https://www.antaranews.com/berita/1368838/din-syamsudin-anjurkan-umat-ganti-shalat-jumat-dengan-dzuhur-di-rumah
+2020-03-20_an_0531,2020-03-20,Raja dan Ratu Bhutan sambut kelahiran anak kedua,Antara,https://www.antaranews.com/berita/1368830/raja-dan-ratu-bhutan-sambut-kelahiran-anak-kedua
+2020-03-20_an_0532,2020-03-20,"Bursa Australia menguat, jelang pengumuman dukungan bank pada nasabah",Antara,https://www.antaranews.com/berita/1368794/bursa-australia-menguat-jelang-pengumuman-dukungan-bank-pada-nasabah
+2020-03-20_an_0533,2020-03-20,Pemkot Bogor data wartawan untuk tes kesehatan,Antara,https://www.antaranews.com/berita/1368826/pemkot-bogor-data-wartawan-untuk-tes-kesehatan
+2020-03-20_an_0534,2020-03-20,Arnold Schwarzenegger-Tiktok kolaborasi berdonasi hadapi corona,Antara,https://www.antaranews.com/berita/1368822/arnold-schwarzenegger-tiktok-kolaborasi-berdonasi-hadapi-corona
+2020-03-20_an_0535,2020-03-20,"PDIP buat gerakan ""Suroboyo Wani Sehat"" cegah COVID-19",Antara,https://www.antaranews.com/berita/1368818/pdip-buat-gerakan-suroboyo-wani-sehat-cegah-covid-19
+2020-03-20_an_0536,2020-03-20,"Kabar terbaru Tom Hanks, tak enak badan tapi baik-baik saja",Antara,https://www.antaranews.com/berita/1368814/kabar-terbaru-tom-hanks-tak-enak-badan-tapi-baik-baik-saja
+2020-03-20_an_0537,2020-03-20,"Petani gembira, harga fuli pala tembus Rp250.000/kg",Antara,https://www.antaranews.com/berita/1368810/petani-gembira-harga-fuli-pala-tembus-rp250000-kg
+2020-03-20_an_0538,2020-03-20,Aktor Daniel Dae positif corona,Antara,https://www.antaranews.com/berita/1368806/aktor-daniel-dae-positif-corona
+2020-03-20_an_0539,2020-03-20,Dua PDP COVID-19 dirujuk ke ruang isolasi RSUD Chasan Boesoerie,Antara,https://www.antaranews.com/berita/1368802/dua-pdp-covid-19-dirujuk-ke-ruang-isolasi-rsud-chasan-boesoerie
+2020-03-20_an_0540,2020-03-20,DMI  Jakarta imbau masjid terapkan protokol kesehatan,Antara,https://www.antaranews.com/berita/1368798/dmi-jakarta-imbau-masjid-terapkan-protokol-kesehatan
+2020-03-20_an_0541,2020-03-20,Fasilitas pengendalian COVID-19 di Pulau Galang terbagi tiga zona,Antara,https://www.antaranews.com/berita/1371010/fasilitas-pengendalian-covid-19-di-pulau-galang-terbagi-tiga-zona
+2020-03-20_an_0542,2020-03-20,Nadiem ajak mahasiswa kedokteran tingkat akhir jadi relawan COVID-19,Antara,https://www.antaranews.com/berita/1370970/nadiem-ajak-mahasiswa-kedokteran-tingkat-akhir-jadi-relawan-covid-19
+2020-03-20_an_0543,2020-03-20,BUMD Pasar di Bogor bekali pedagang cairan pembersih tangan,Antara,https://www.antaranews.com/berita/1371006/bumd-pasar-di-bogor-bekali-pedagang-cairan-pembersih-tangan
+2020-03-20_an_0544,2020-03-20, Bangun kesadaran bersama untuk cegah COVID-19,Antara,https://www.antaranews.com/berita/1371002/dedie-bangun-kesadaran-bersama-untuk-cegah-covid-19
+2020-03-20_an_0545,2020-03-20,39 orang berstatus PDP dan ODP di Solok Selatan dinyatakan sehat,Antara,https://www.antaranews.com/berita/1370998/39-orang-berstatus-pdp-dan-odp-di-solok-selatan-dinyatakan-sehat
+2020-03-20_an_0546,2020-03-20,"Dampak Corona, permohonan paspor di Imigrasi Banjarmasin merosot",Antara,https://www.antaranews.com/berita/1370990/dampak-corona-permohonan-paspor-di-imigrasi-banjarmasin-merosot
+2020-03-20_an_0547,2020-03-20,Presiden La Liga yakin kompetisi Eropa kembali lanjut pertengahan Mei,Antara,https://www.antaranews.com/berita/1370986/presiden-la-liga-yakin-kompetisi-eropa-kembali-lanjut-pertengahan-mei
+2020-03-20_an_0548,2020-03-20,Tiga PDP di RSUP Muhammad Hoesin Palembang negatif COVID-19,Antara,https://www.antaranews.com/berita/1370982/tiga-pdp-di-rsup-muhammad-hoesin-palembang-negatif-covid-19
+2020-03-20_an_0549,2020-03-20,MUI Bogor keluarkan imbauan tetap shalat berjamaah di masjid,Antara,https://www.antaranews.com/berita/1370978/mui-bogor-keluarkan-imbauan-tetap-shalat-berjamaah-di-masjid
+2020-03-20_an_0550,2020-03-20,Kemenhub minta kesadaran penumpang KRL untuk jaga jarak,Antara,https://www.antaranews.com/berita/1370974/kemenhub-minta-kesadaran-penumpang-krl-untuk-jaga-jarak
+2020-03-20_an_0551,2020-03-20,Pertarungan Joshua vs Pulev ditunda karena COVID-19,Antara,https://www.antaranews.com/berita/1368790/pertarungan-joshua-vs-pulev-ditunda-karena-covid-19
+2020-03-20_an_0552,2020-03-20,"Kebakaran melanda tiga wilayah Jakarta Timur, Jumat",Antara,https://www.antaranews.com/berita/1368754/kebakaran-melanda-tiga-wilayah-jakarta-timur-jumat
+2020-03-20_an_0553,2020-03-20,Bupati Indragiri Hilir tetap ajak warganya Jumatan di masjid,Antara,https://www.antaranews.com/berita/1368786/bupati-indragiri-hilir-tetap-ajak-warganya-jumatan-di-masjid
+2020-03-20_an_0554,2020-03-20,Asisten Menkeu AS Geoffrey Okamoto jadi Wakil Direktur Pelaksana IMF,Antara,https://www.antaranews.com/berita/1368782/asisten-menkeu-as-geoffrey-okamoto-jadi-wakil-direktur-pelaksana-imf
+2020-03-20_an_0555,2020-03-20,CONMEBOL minta FIFA tunda kualifikasi Piala Dunia,Antara,https://www.antaranews.com/berita/1368778/conmebol-minta-fifa-tunda-kualifikasi-piala-dunia
+2020-03-20_an_0556,2020-03-20, Mempersiapkan sistem rujukan COVID-19 sangat penting,Antara,https://www.antaranews.com/berita/1368774/who-mempersiapkan-sistem-rujukan-covid-19-sangat-penting
+2020-03-20_an_0557,2020-03-20,Laman Lawan COVID-19 diluncurkan di Surabaya,Antara,https://www.antaranews.com/berita/1368770/laman-lawan-covid-19-diluncurkan-di-surabaya
+2020-03-20_an_0558,2020-03-20,Yuk bikin smoothie kaya vitamin C untuk sarapan,Antara,https://www.antaranews.com/berita/1368766/yuk-bikin-smoothie-kaya-vitamin-c-untuk-sarapan
+2020-03-20_an_0559,2020-03-20,Dinkes Surabaya tanggung biaya pemeriksaan tes swab COVID-19,Antara,https://www.antaranews.com/berita/1368762/dinkes-surabaya-tanggung-biaya-pemeriksaan-tes-swab-covid-19
+2020-03-20_an_0560,2020-03-20,Warga Kota Brussels di masa 'Lockdown' COVID-19,Antara,https://www.antaranews.com/foto/1368758/warga-kota-brussels-di-masa-lockdown-covid-19
+2020-03-20_an_0561,2020-03-20,"Wali Kota Bogor diisolasi di RSUD, positif COVID-19",Antara,https://www.antaranews.com/berita/1368750/wali-kota-bogor-diisolasi-di-rsud-positif-covid-19
+2020-03-20_an_0562,2020-03-20,Bawaslu Bangka Tengah Lakukan Upaya Proteksi Penyebaran COVID-19,Antara,https://www.antaranews.com/berita/1368714/bawaslu-bangka-tengah-lakukan-upaya-proteksi-penyebaran-covid-19
+2020-03-20_an_0563,2020-03-20,"Hukum kemarin, Kepri tanggap darurat COVID-19 hingga KPU gugat DKPP",Antara,https://www.antaranews.com/berita/1368746/hukum-kemarin-kepri-tanggap-darurat-covid-19-hingga-kpu-gugat-dkpp
+2020-03-20_an_0564,2020-03-20,Sixers dan Nuggets umumkan pegawainya positif COVID-19,Antara,https://www.antaranews.com/berita/1368742/sixers-dan-nuggets-umumkan-pegawainya-positif-covid-19
+2020-03-20_an_0565,2020-03-20,AP I tetap operasikan penuh Bandara Internasional Yogyakarta 29 Maret,Antara,https://www.antaranews.com/berita/1368738/ap-i-tetap-operasikan-penuh-bandara-internasional-yogyakarta-29-maret
+2020-03-20_an_0566,2020-03-20,"Potret perjalanan MRT, dari stadion Lebak Bulus hingga rekonsiliasi politik",Antara,https://www.antaranews.com/foto/1368734/potret-perjalanan-mrt-dari-stadion-lebak-bulus-hingga-rekonsiliasi-politik
+2020-03-20_an_0567,2020-03-20,Penari Balet menari di lengangnya jalan di Times Square,Antara,https://www.antaranews.com/foto/1368730/penari-balet-menari-di-lengangnya-jalan-di-times-square
+2020-03-20_an_0568,2020-03-20,"Antisipasi kurs dolar, APPSI minta jaga stabilitas harga pangan",Antara,https://www.antaranews.com/berita/1368726/antisipasi-kurs-dolar-appsi-minta-jaga-stabilitas-harga-pangan
+2020-03-20_an_0569,2020-03-20,Pedagang nasi uduk terluka saat api membakar empat rumah di Rawamangun,Antara,https://www.antaranews.com/berita/1368722/pedagang-nasi-uduk-terluka-saat-api-membakar-empat-rumah-di-rawamangun
+2020-03-20_an_0570,2020-03-20,"Wall Street melambung, ditopang reli saham energi dan teknologi",Antara,https://www.antaranews.com/berita/1368718/wall-street-melambung-ditopang-reli-saham-energi-dan-teknologi
+2020-03-20_an_0571,2020-03-20," The Rise of Gru"" ikut menunda jadwal tayang",Antara,https://www.antaranews.com/berita/1368710/minion-the-rise-of-gru-ikut-menunda-jadwal-tayang
+2020-03-20_an_0572,2020-03-20,"Kemarin, layanan tanpa kontak dari ojol hingga cuci tangan secukupnya",Antara,https://www.antaranews.com/berita/1368674/kemarin-layanan-tanpa-kontak-dari-ojol-hingga-cuci-tangan-secukupnya
+2020-03-20_an_0573,2020-03-20,"Dua kasus COVID-19 peringatan pentingnya ""sosial distancing"" di Sulsel",Antara,https://www.antaranews.com/berita/1368706/dua-kasus-covid-19-peringatan-pentingnya-sosial-distancing-di-sulsel
+2020-03-20_an_0574,2020-03-20,"Politik kemarin, pesawat ambil alkes Covid-19 hingga DKPP cacat hukum",Antara,https://www.antaranews.com/berita/1368702/politik-kemarin-pesawat-ambil-alkes-covid-19-hingga-dkpp-cacat-hukum
+2020-03-20_an_0575,2020-03-20,YLKI minta pemerintah progresif tangani COVID-19,Antara,https://www.antaranews.com/berita/1368698/ylki-minta-pemerintah-progresif-tangani-covid-19
+2020-03-20_an_0576,2020-03-20,"Dolar AS menguat tertinggi sejak 2017, dipicu khawatiran ekonomi jatuh",Antara,https://www.antaranews.com/berita/1368694/dolar-as-menguat-tertinggi-sejak-2017-dipicu-khawatiran-ekonomi-jatuh
+2020-03-20_an_0577,2020-03-20,"Cegah COVID-19, PN Wates optimalkan pelayan secara daring",Antara,https://www.antaranews.com/berita/1368690/cegah-covid-19-pn-wates-optimalkan-pelayan-secara-daring
+2020-03-20_an_0578,2020-03-20,Evangeline Lily tolak lakukan karantina mandiri,Antara,https://www.antaranews.com/berita/1368686/evangeline-lily-tolak-lakukan-karantina-mandiri
+2020-03-20_an_0579,2020-03-20,"Kemarin, pembatasan aktivitas ibadah hingga kebakaran di Pejaten",Antara,https://www.antaranews.com/berita/1368682/kemarin-pembatasan-aktivitas-ibadah-hingga-kebakaran-di-pejaten
+2020-03-20_an_0580,2020-03-20,"Cegah COVID-19, semua agenda perlombaan siswa Minahasa Tenggara batal",Antara,https://www.antaranews.com/berita/1368678/cegah-covid-19-semua-agenda-perlombaan-siswa-minahasa-tenggara-batal
+2020-03-20_an_0581,2020-03-20,Sumbar produksi massal hand sanitizer di laboratorium LL Dikti,Antara,https://www.antaranews.com/berita/1368670/sumbar-produksi-massal-hand-sanitizer-di-laboratorium-ll-dikti
+2020-03-20_an_0582,2020-03-20,Jalur Padang-Solok  tertimbun longsor sudah dapat dilalui kendaraan,Antara,https://www.antaranews.com/berita/1368634/jalur-padang-solok-tertimbun-longsor-sudah-dapat-dilalui-kendaraan
+2020-03-20_an_0583,2020-03-20,"Kemarin, BI turunkan suku bunga hingga kereta api cepat ditinjau ulang",Antara,https://www.antaranews.com/berita/1368666/kemarin-bi-turunkan-suku-bunga-hingga-kereta-api-cepat-ditinjau-ulang
+2020-03-20_an_0584,2020-03-20,Polda Metro Jaya tangkap pencuri dan penadah motor,Antara,https://www.antaranews.com/berita/1368662/polda-metro-jaya-tangkap-pencuri-dan-penadah-motor
+2020-03-20_an_0585,2020-03-20,MUI Papua Barat : Shalat Jumat bawa sajadah masing-masing,Antara,https://www.antaranews.com/berita/1368658/mui-papua-barat-shalat-jumat-bawa-sajadah-masing-masing
+2020-03-20_an_0586,2020-03-20,Festival Film Cannes ditunda akibat corona,Antara,https://www.antaranews.com/berita/1368654/festival-film-cannes-ditunda-akibat-corona
+2020-03-20_an_0587,2020-03-20,IDI Aceh: Warga dari daerah terjangkit tak perlu cek kesehatan,Antara,https://www.antaranews.com/berita/1368650/idi-aceh-warga-dari-daerah-terjangkit-tak-perlu-cek-kesehatan
+2020-03-20_an_0588,2020-03-20,"Harga minyak ""rebound"" dengan rekor kenaikan satu hari terbesar",Antara,https://www.antaranews.com/berita/1368646/harga-minyak-rebound-dengan-rekor-kenaikan-satu-hari-terbesar
+2020-03-20_an_0589,2020-03-20,Perpanjangan izin tinggal TKA di Karawang harus diwakilkan agen,Antara,https://www.antaranews.com/berita/1368642/perpanjangan-izin-tinggal-tka-di-karawang-harus-diwakilkan-agen
+2020-03-20_an_0590,2020-03-20,Cuaca Jakarta Jumat pagi berawan malam hari hujan,Antara,https://www.antaranews.com/berita/1368638/cuaca-jakarta-jumat-pagi-berawan-malam-hari-hujan
+2020-03-20_an_0591,2020-03-20,DPRD Sulsel apresiasi Pembatalan Ijtima Asia,Antara,https://www.antaranews.com/berita/1368630/dprd-sulsel-apresiasi-pembatalan-ijtima-asia
+2020-03-20_an_0592,2020-03-20,"Imbas pandemi COVID-19, Monako batalkan GP F1",Antara,https://www.antaranews.com/berita/1368594/imbas-pandemi-covid-19-monako-batalkan-gp-f1
+2020-03-20_an_0593,2020-03-20,"Harga emas COMEX naik tipis, investor ke aset ""safe haven""",Antara,https://www.antaranews.com/berita/1368626/harga-emas-comex-naik-tipis-investor-ke-aset-safe-haven
+2020-03-20_an_0594,2020-03-20,Wilayah DKI Jakarta berpotensi hujan disertai petir Jumat sore,Antara,https://www.antaranews.com/berita/1368622/wilayah-dki-jakarta-berpotensi-hujan-disertai-petir-jumat-sore
+2020-03-20_an_0595,2020-03-20,"Indeks saham Spanyol IBEX 35 menguat 1,92%",Antara,https://www.antaranews.com/berita/1368618/indeks-saham-spanyol-ibex-35-menguat-192
+2020-03-20_an_0596,2020-03-20,"Gempa bumi magnitudo 4,8 guncang Lombok Utara",Antara,https://www.antaranews.com/berita/1368614/gempa-bumi-magnitudo-48-guncang-lombok-utara
+2020-03-20_an_0597,2020-03-20,"Saham Inggris berbalik menguat, indeks FTSE 100 naik 1,40%",Antara,https://www.antaranews.com/berita/1368610/saham-inggris-berbalik-menguat-indeks-ftse-100-naik-140
+2020-03-20_an_0598,2020-03-20,Saham Jerman melambung kembali capai 2%,Antara,https://www.antaranews.com/berita/1368606/saham-jerman-melambung-kembali-capai-2
+2020-03-20_an_0599,2020-03-20,"Saham Prancis bangkit dengan indeks CAC 40 terangkat 2,68%",Antara,https://www.antaranews.com/berita/1368602/saham-prancis-bangkit-dengan-indeks-cac-40-terangkat-268
+2020-03-20_an_0600,2020-03-20,"Hari ini, api Olimpiade akan tiba di Jepang",Antara,https://www.antaranews.com/berita/1368598/hari-ini-api-olimpiade-akan-tiba-di-jepang
+2020-03-20_an_0601,2020-03-20,TMMD Kodim 0208/Asahan diharapkan tumbuhkan kreativitas warga,Antara,https://www.antaranews.com/berita/1368590/tmmd-kodim-0208-asahan-diharapkan-tumbuhkan-kreativitas-warga
+2020-03-20_an_0602,2020-03-20,Kepri tanggap darurat COVID-19,Antara,https://www.antaranews.com/berita/1368566/kepri-tanggap-darurat-covid-19
+2020-03-20_an_0603,2020-03-20,Ibadah massal Kristiani & Budha diimbau ditunda terkait COVID-19,Antara,https://www.antaranews.com/berita/1368586/ibadah-massal-kristiani-budha-diimbau-ditunda-terkait-covid-19
+2020-03-20_an_0604,2020-03-20,Dari eksodus wisman hingga melemahnya ekonomi sektor pariwisata NTB,Antara,https://www.antaranews.com/video/1368514/dari-eksodus-wisman-hingga-melemahnya-ekonomi-sektor-pariwisata-ntb
+2020-03-20_an_0605,2020-03-20,Enam mobil damkar padamkan kebakaran rumah di Pejaten,Antara,https://www.antaranews.com/berita/1368582/enam-mobil-damkar-padamkan-kebakaran-rumah-di-pejaten
+2020-03-20_an_0606,2020-03-20,"Balikpapan KLB COVID-19, satu warga positif terjangkit",Antara,https://www.antaranews.com/berita/1368578/balikpapan-klb-covid-19-satu-warga-positif-terjangkit
+2020-03-20_an_0607,2020-03-20,Penyanitasi tangan karya siswa SMK diminati pasar luar negeri,Antara,https://www.antaranews.com/video/1368542/penyanitasi-tangan-karya-siswa-smk-diminati-pasar-luar-negeri
+2020-03-20_an_0608,2020-03-20,NTB usulkan 2 Labkesda diberi kewenangan deteksi COVID-19,Antara,https://www.antaranews.com/video/1368330/ntb-usulkan-2-labkesda-diberi-kewenangan-deteksi-covid-19
+2020-03-20_an_0609,2020-03-20,Perombakan besar regulasi Formula 1 diundur ke 2022,Antara,https://www.antaranews.com/berita/1368574/perombakan-besar-regulasi-formula-1-diundur-ke-2022
+2020-03-20_an_0610,2020-03-20,MPR minta pemerintah harus serius tangani wabah COVID-19,Antara,https://www.antaranews.com/berita/1368570/mpr-minta-pemerintah-harus-serius-tangani-wabah-covid-19
+2020-03-20_an_0611,2020-03-20,Satu pasien dalam pengawasan COVID-19 di Kalbar dinyatakan negatif,Antara,https://www.antaranews.com/berita/1368562/satu-pasien-dalam-pengawasan-covid-19-di-kalbar-dinyatakan-negatif
+2020-03-20_an_0612,2020-03-20,Pemprov Jatim berencana bagikan masker gratis ke masyarakat,Antara,https://www.antaranews.com/berita/1368558/pemprov-jatim-berencana-bagikan-masker-gratis-ke-masyarakat
+2020-03-20_an_0613,2020-03-20,Seorang calon pengantin di Aceh Timur diduga rekayasa perampokan,Antara,https://www.antaranews.com/berita/1368554/seorang-calon-pengantin-di-aceh-timur-diduga-rekayasa-perampokan
+2020-03-20_an_0614,2020-03-20,Wartawan hindari wawancara cegat tidak kurangi esensi berita,Antara,https://www.antaranews.com/berita/1368550/wartawan-hindari-wawancara-cegat-tidak-kurangi-esensi-berita
+2020-03-20_an_0615,2020-03-20,Polisi Jambi tangkap perampok pecah kaca mobil di rumah ibadah,Antara,https://www.antaranews.com/berita/1368546/polisi-jambi-tangkap-perampok-pecah-kaca-mobil-di-rumah-ibadah
+2020-03-20_an_0616,2020-03-20,"Satu poin dari tiga laga, Djanur berkilah Barito Putera belum ""nyetel""",Antara,https://www.antaranews.com/berita/1370966/satu-poin-dari-tiga-laga-djanur-berkilah-barito-putera-belum-nyetel
+2020-03-20_an_0617,2020-03-20,Virolog Jerman ragu kompetisi sepak bola berlanjut tahun ini,Antara,https://www.antaranews.com/berita/1370930/virolog-jerman-ragu-kompetisi-sepak-bola-berlanjut-tahun-ini
+2020-03-20_an_0618,2020-03-20,Kejaksaan limpahkan berkas perkara pembunuhan hakim ke PN Medan,Antara,https://www.antaranews.com/berita/1370962/kejaksaan-limpahkan-berkas-perkara-pembunuhan-hakim-ke-pn-medan
+2020-03-20_an_0619,2020-03-20,Warga DKI diimbau bayar pajak kendaraan melalui aplikasi daring,Antara,https://www.antaranews.com/berita/1370958/warga-dki-diimbau-bayar-pajak-kendaraan-melalui-aplikasi-daring
+2020-03-20_an_0620,2020-03-20,"Ada 60 kasus baru, positif COVID-19 capai 369 orang",Antara,https://www.antaranews.com/video/1370814/ada-60-kasus-baru-positif-covid-19-capai-369-orang
+2020-03-20_an_0621,2020-03-20,Pemprov Jateng jembatani PHDI dengan pemerintah terkait Tawur Agung,Antara,https://www.antaranews.com/berita/1370954/pemprov-jateng-jembatani-phdi-dengan-pemerintah-terkait-tawur-agung
+2020-03-20_an_0622,2020-03-20,F1 luncurkan seri grand prix virtual gantikan balapan yang tertunda,Antara,https://www.antaranews.com/berita/1370946/f1-luncurkan-seri-grand-prix-virtual-gantikan-balapan-yang-tertunda
+2020-03-20_an_0623,2020-03-20,Pemkot Batam susuri kesehatan seluruh warga antisipasi COVID-19,Antara,https://www.antaranews.com/berita/1370942/pemkot-batam-susuri-kesehatan-seluruh-warga-antisipasi-covid-19
+2020-03-20_an_0624,2020-03-20,RSPI Sulianti Saroso butuh tambahan tenaga kesehatan,Antara,https://www.antaranews.com/berita/1370938/rspi-sulianti-saroso-butuh-tambahan-tenaga-kesehatan
+2020-03-20_an_0625,2020-03-20,Regulasi dan insentif pemerintah harus presisi sikapi pelemahan rupiah,Antara,https://www.antaranews.com/berita/1370934/regulasi-dan-insentif-pemerintah-harus-presisi-sikapi-pelemahan-rupiah
+2020-03-20_an_0626,2020-03-20,Longsor di Lewo timbulkan kemacetan di Jalan Raya Bandung-Garut,Antara,https://www.antaranews.com/berita/1370926/longsor-di-lewo-timbulkan-kemacetan-di-jalan-raya-bandung-garut
+2020-03-20_an_0627,2020-03-20,DKI Jakarta terima 520 buah alat rapid test Corona,Antara,https://www.antaranews.com/video/1370882/dki-jakarta-terima-520-buah-alat-rapid-test-corona
+2020-03-20_an_0628,2020-03-20,PMI Jember imbau masyarakat tetap donor di tengah pandemi COVID-19,Antara,https://www.antaranews.com/berita/1370922/pmi-jember-imbau-masyarakat-tetap-donor-di-tengah-pandemi-covid-19
+2020-03-20_an_0629,2020-03-20,"Ruang isolasi penuh, RSUP Adam Malik isolasi PDP corona di ruang IGD",Antara,https://www.antaranews.com/berita/1370918/ruang-isolasi-penuh-rsup-adam-malik-isolasi-pdp-corona-di-ruang-igd
+2020-03-20_an_0630,2020-03-20,FPKS canangkan gerakan berbagi masker dan disinfektan gratis,Antara,https://www.antaranews.com/berita/1370914/fpks-canangkan-gerakan-berbagi-masker-dan-disinfektan-gratis
+2020-03-20_an_0631,2020-03-20,Stop hoaks corona,Antara,https://www.antaranews.com/infografik/1370910/stop-hoaks-corona
+2020-03-20_an_0632,2020-03-20,Beto Goncalves habiskan waktu di gimnasium rumah selama libur,Antara,https://www.antaranews.com/berita/1370906/beto-goncalves-habiskan-waktu-di-gimnasium-rumah-selama-libur
+2020-03-20_an_0633,2020-03-20,Pasar Jaya semprotkan disinfektan di Blok B Pasar Tanah Abang,Antara,https://www.antaranews.com/berita/1370902/pasar-jaya-semprotkan-disinfektan-di-blok-b-pasar-tanah-abang
+2020-03-20_an_0634,2020-03-20,Satu PDP COVID-19 di Kota Malang dinyatakan sembuh,Antara,https://www.antaranews.com/berita/1370898/satu-pdp-covid-19-di-kota-malang-dinyatakan-sembuh
+2020-03-20_an_0635,2020-03-20,RSUD Murjani siapkan ruang isolasi berkapasitas 16 tempat tidur,Antara,https://www.antaranews.com/berita/1370894/rsud-murjani-siapkan-ruang-isolasi-berkapasitas-16-tempat-tidur
+2020-03-20_an_0636,2020-03-20,Gubernur Jatim: Pasien positif COVID-19 di Surabaya 13 orang,Antara,https://www.antaranews.com/berita/1370890/gubernur-jatim-pasien-positif-covid-19-di-surabaya-13-orang
+2020-03-20_an_0637,2020-03-20,"Pemkab Kotabaru evaluasi Germas, antisipasi corona",Antara,https://www.antaranews.com/berita/1370850/pemkab-kotabaru-evaluasi-germas-antisipasi-corona
+2020-03-20_an_0638,2020-03-20,Implementasi Kartu Pra-Kerja dimulai di tiga kota ini,Antara,https://www.antaranews.com/berita/1370886/implementasi-kartu-pra-kerja-dimulai-di-tiga-kota-ini
+2020-03-20_an_0639,2020-03-20,Pemkab Sidoarjo marathon semprot tempat ibadah,Antara,https://www.antaranews.com/berita/1370878/pemkab-sidoarjo-marathon-semprot-tempat-ibadah
+2020-03-20_an_0640,2020-03-20,KPK konfirmasi dosen UI proses perencanaan proyek Jembatan Bangkinang,Antara,https://www.antaranews.com/berita/1370874/kpk-konfirmasi-dosen-ui-proses-perencanaan-proyek-jembatan-bangkinang
+2020-03-20_an_0641,2020-03-20,"Cegah Covid-19, Masjid Raya Baiturrahman disemprot desinfektan",Antara,https://www.antaranews.com/berita/1370870/cegah-covid-19-masjid-raya-baiturrahman-disemprot-desinfektan
+2020-03-20_an_0642,2020-03-20,PDP diisolasi di Medan bertambah menjadi 13 orang,Antara,https://www.antaranews.com/berita/1370866/pdp-diisolasi-di-medan-bertambah-menjadi-13-orang
+2020-03-20_an_0643,2020-03-20,Pemprov DKI kembali batasi jam operasional transportasi umum,Antara,https://www.antaranews.com/berita/1370862/pemprov-dki-kembali-batasi-jam-operasional-transportasi-umum
+2020-03-20_an_0644,2020-03-20,Pasien positif COVID-19 di Batam adalah warga transit,Antara,https://www.antaranews.com/berita/1370858/pasien-positif-covid-19-di-batam-adalah-warga-transit
+2020-03-20_an_0645,2020-03-20,Penyemprotan disinfektan jalan raya Daan Mogot,Antara,https://www.antaranews.com/foto/1370854/penyemprotan-disinfektan-jalan-raya-daan-mogot
+2020-03-20_an_0646,2020-03-20,Asosiasi petani pepaya Lebak siap penuhi kebutuhan pasar Jakarta,Antara,https://www.antaranews.com/berita/1370846/asosiasi-petani-pepaya-lebak-siap-penuhi-kebutuhan-pasar-jakarta
+2020-03-20_an_0647,2020-03-20,"Antisipasi COVID-19, DPRD Hulu Sungai Tengah tunda sidang paripurna",Antara,https://www.antaranews.com/berita/1370806/antisipasi-covid-19-dprd-hulu-sungai-tengah-tunda-sidang-paripurna
+2020-03-20_an_0648,2020-03-20,Siswa SMAK racik hand sanitizer untuk Masjid Raya Sumbar,Antara,https://www.antaranews.com/berita/1370842/siswa-smak-racik-hand-sanitizer-untuk-masjid-raya-sumbar
+2020-03-20_an_0649,2020-03-20,Dirut RSPI SS: Jangan rujuk pasien biasa ke RS Rujukan Pasien Covid-19,Antara,https://www.antaranews.com/berita/1370838/dirut-rspi-ss-jangan-rujuk-pasien-biasa-ke-rs-rujukan-pasien-covid-19
+2020-03-20_an_0650,2020-03-20,MUI nilai Kepri masih aman melaksanakan shalat berjamaah di masjid,Antara,https://www.antaranews.com/berita/1370834/mui-nilai-kepri-masih-aman-melaksanakan-shalat-berjamaah-di-masjid
+2020-03-20_an_0651,2020-03-20,Dinkes sebut pasien positif COVID-19 di Bantul merupakan ASN,Antara,https://www.antaranews.com/berita/1370830/dinkes-sebut-pasien-positif-covid-19-di-bantul-merupakan-asn
+2020-03-20_an_0652,2020-03-20,Dua positif COVID-19 Kalteng tingkatkan statusi tanggap darurat,Antara,https://www.antaranews.com/berita/1370826/dua-positif-covid-19-kalteng-tingkatkan-statusi-tanggap-darurat
+2020-03-20_an_0653,2020-03-20,"Akibat corona, Kemenhub putuskan nasib mudik Lebaran pekan depan",Antara,https://www.antaranews.com/berita/1370822/akibat-corona-kemenhub-putuskan-nasib-mudik-lebaran-pekan-depan
+2020-03-20_an_0654,2020-03-20, Solo dan Semarang jadi prioritas pemeriksaan cepat COVID-19,Antara,https://www.antaranews.com/berita/1370818/ganjar-solo-dan-semarang-jadi-prioritas-pemeriksaan-cepat-covid-19
+2020-03-20_an_0655,2020-03-20,Bintang tenis WTA sibukkan diri dengan kegiatan pribadi,Antara,https://www.antaranews.com/berita/1370810/bintang-tenis-wta-sibukkan-diri-dengan-kegiatan-pribadi
